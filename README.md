@@ -3,12 +3,12 @@
 ### Prof. Dr. Steffen Wendzel
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
 
-##Introduction
+## Introduction
 This is a open online course for network covert channels. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. More material will be added. You can always find the latest version of my slides here, as I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class.
 
 I made sure that references are using links so that you and your students can get direct access to the publications.
 
-##Outline
+## Outline
 
 1. Introduction
 2. Classic and OS-level covert channels
