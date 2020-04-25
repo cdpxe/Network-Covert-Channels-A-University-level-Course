@@ -20,7 +20,7 @@ I made sure that references are using links so that you and your students can ge
 
 ### 5. Getting the big picture: hiding patterns
 
-### 6. Staying under the radar: sophisticated hiding methods
+### 6. Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 
 ### 7. Selected countermeasures
 
