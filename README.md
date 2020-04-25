@@ -10,32 +10,38 @@ I made sure that references are using links so that you and your students can ge
 
 ## Outline
 
-### 1. Introduction to steganography and covert channels
+### Week 1: Introduction to steganography and covert channels
 
-### 2. Introduction to classic covert channels
+**Slides:** t.b.d.
 
-### 3. Fundamental countermeasures (not network-specific)
+**Reading Assignment:**
 
-### 4. Fundamental network information hiding techniques
+**Exercise:**
 
-### 5. Getting the big picture: hiding patterns
+### Week 2: Introduction to classic covert channels
 
-### 6. Staying under the radar: sophisticated hiding methods and distributed hiding patterns
+### Week 3: Fundamental countermeasures (not network-specific)
 
-### 7. Selected countermeasures
+### Week 4: Fundamental network information hiding techniques
 
-### 8. Replicating experiments for scientific advancement
+### Week 5: Getting the big picture: hiding patterns
 
-### 9. *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
+### Week 6: Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 
-### 10. *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
+### Week 7: Selected countermeasures
 
-### 11. Overall conclusion
+### Week 8: Replicating experiments for scientific advancement
 
-### 12. Extension (e.g. lectures by experts)
+### Week 9: *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
+
+### Week 10: *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
+
+### Week 11: Overall conclusion
+
+### maybe: Week 12. Extension (e.g. lectures by experts)
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
 
-## Exercises
+## Exercises todo
 
 * t.b.a.
 * https://github.com/cdpxe/CCEAP/tree/master/sample_exercises
