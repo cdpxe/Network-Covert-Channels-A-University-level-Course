@@ -33,7 +33,7 @@ I made sure that references are using links so that you and your students can ge
 ### 11. Overall conclusion
 
 ### 12. Extension (e.g. lectures by experts)
-If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides).
+If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
 
 ## Exercises
 
