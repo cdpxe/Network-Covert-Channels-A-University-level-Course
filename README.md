@@ -12,39 +12,117 @@ I made sure that references are using links so that you and your students can ge
 
 ### Week 1: Introduction to steganography and covert channels
 
-**Slides:** t.b.d.
+- **Video:** t.b.d.
 
-**Reading Assignment:**
+- **Slides:** t.b.d.
 
-**Exercise:**
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
 
 ### Week 2: Introduction to classic covert channels
 
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
+
 ### Week 3: Fundamental countermeasures (not network-specific)
+
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
 
 ### Week 4: Fundamental network information hiding techniques
 
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** https://github.com/cdpxe/CCEAP/tree/master/sample_exercises
+
 ### Week 5: Getting the big picture: hiding patterns
+
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
 
 ### Week 6: Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
+
 ### Week 7: Selected countermeasures
+
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
 
 ### Week 8: Replicating experiments for scientific advancement
 
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
+
 ### Week 9: *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
+
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
 
 ### Week 10: *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
 
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
+
 ### Week 11: Overall conclusion
 
+- **Video:** t.b.d.
+
+- **Slides:** t.b.d.
+
+- **Reading Assignment:** t.b.d.
+
+- **Exercise:** t.b.d.
+
 ### maybe: Week 12. Extension (e.g. lectures by experts)
+
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
-
-## Exercises todo
-
-* t.b.a.
-* https://github.com/cdpxe/CCEAP/tree/master/sample_exercises
 
 ## TODO
 
