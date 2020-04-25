@@ -110,7 +110,7 @@ I made sure that references are using links so that you and your students can ge
 
 - **Exercise:** t.b.d.
 
-### Week 11: Overall conclusion
+### Week 11: Summary and Overall conclusion
 
 - **Video:** t.b.d.
 
