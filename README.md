@@ -35,6 +35,11 @@ I made sure that references are using links so that you and your students can ge
 ### 12. Extension (e.g. lectures by experts)
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides).
 
+## Exercises
+
+* t.b.a.
+* https://github.com/cdpxe/CCEAP/tree/master/sample_exercises
+
 ## TODO
 
 - convert all publication's links to DOI
