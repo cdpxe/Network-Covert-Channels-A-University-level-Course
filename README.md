@@ -16,9 +16,15 @@ I made sure that references are using links so that you and your students can ge
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- F. Petitcolas, R. Anderson, M. Kuhn: [Information Hiding – A Survey](https://ieeexplore.ieee.org/abstract/document/771065), Proc. IEEE, 87(7), 1999.
+	- W. Mazurczyk, S. Wendzel, et al.: [Information Hiding in Communication Networks, Chapters 1 and 2](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 
-- **Exercise:** t.b.d.
+- **Exercise:**
+	- Exercise: Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students (no slides; you can use the whiteboard).
+	- Is there a terminological inconsistency for the terms covert channel, network covert channel, steganography and network steganography given the introduced taxonomy? If yes: explain. (Chapter 2 of W. Mazurczyk et al., 2016)
+	- Can Information Hiding methods be applied to deduce cryptography keys from encryption/decryption tools? If yes: how?
+
 
 ### Week 2: Introduction to classic covert channels
 
@@ -28,7 +34,8 @@ I made sure that references are using links so that you and your students can ge
 
 - **Reading Assignment:** t.b.d.
 
-- **Exercise:** t.b.d.
+- **Exercise:**
+	- You will find a steganographic method called iStegSiri for iOS published in (Caviglione and Mazurczyk, 2015). Explain how it works using the whiteboard.
 
 ### Week 3: Fundamental countermeasures (not network-specific)
 
