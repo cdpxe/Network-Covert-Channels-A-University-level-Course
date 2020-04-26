@@ -102,11 +102,11 @@ I made sure that references are using links so that you and your students can ge
 
 ### Week 10: *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
 
-- **Video:** t.b.d.
+- **Video:** [Screencast](https://www.youtube.com/watch?v=Q7eAcBzojvo) of S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:** Steffen Wendzel, Wojciech Mazurczyk, Georg Haas: [Steganography for Cyber-physical Systems](http://www.riverpublishers.com/journaldownload.php?file=RP_Journal_2245-1439_621.pdf), Journal of Cyber Security and Mobility (JCSM), Vol. 6(2), pp. 105-126, River Publishers, 2017.
 
 - **Exercise:** t.b.d.
 
