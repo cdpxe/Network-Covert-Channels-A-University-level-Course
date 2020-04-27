@@ -20,6 +20,11 @@ I made sure that references are using links so that you and your students can ge
 	- F. Petitcolas, R. Anderson, M. Kuhn: [Information Hiding – A Survey](https://ieeexplore.ieee.org/abstract/document/771065), Proc. IEEE, 87(7), 1999.
 	- W. Mazurczyk, S. Wendzel, et al.: [Information Hiding in Communication Networks, Chapters 1 and 2](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 
+- **Optional Papers to Read:**
+	- B. Pfitzmann: [Information Hiding Terminology](https://doi.org/10.1007/3-540-61996-8_52), Proc. 1st Information Hiding Workshop, Springer, 1996.
+	- E. Zielinska, W. Mazurczyk, K. Szczypiorski: [Trends in Steganography](https://dl.acm.org/doi/10.1145/2566590.2566610), Comm. ACM, 2014.
+	-  K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
+
 - **Exercise:**
 	- Exercise: Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students (no slides; you can use the whiteboard).
 	- Is there a terminological inconsistency for the terms covert channel, network covert channel, steganography and network steganography given the introduced taxonomy? If yes: explain. (Chapter 2 of W. Mazurczyk et al., 2016)
