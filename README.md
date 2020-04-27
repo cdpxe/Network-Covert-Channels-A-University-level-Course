@@ -38,13 +38,13 @@ ___
 
 ### Week 2-a: Chapter 2 - Introduction to classic covert channels
 
-- **Video:** t.b.d.
+- **Video:** [YouTube](https://youtu.be/MBV-NFQLH34)
 
-- **Slides:** t.b.d.
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch2.pdf)
 
 - **Reading Assignment:** t.b.d.
 
-- **Exercise:**
+- **Exercise:** none
 
 
 ___
