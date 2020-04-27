@@ -67,7 +67,7 @@ ___
 
 - **Reading Assignment:** t.b.d.
 
-- **Exercise:** https://github.com/cdpxe/CCEAP/tree/master/sample_exercises
+- **Exercise:**
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 - **Reading Assignment:** t.b.d.
 
-- **Exercise:** t.b.d.
+- **Exercise:** Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and make sure you understand the provided solutions.
 
 ___
 
