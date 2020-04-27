@@ -14,7 +14,7 @@ I made sure that references are using links so that you and your students can ge
 
 *This online class **starts on May 5th, 2020**. I will upload videos once in a week.*
 
-### Week 1: Introduction to steganography and covert channels (May 5th, 2020)
+### Week 1: Chapter 1 - Introduction to Steganography and Covert Channels (May 5th, 2020)
 
 - **Video:** t.b.d.
 
@@ -36,7 +36,7 @@ I made sure that references are using links so that you and your students can ge
 ___
 
 
-### Week 2: Introduction to classic covert channels
+### Week 2-a: Chapter 2 - Introduction to classic covert channels
 
 - **Video:** t.b.d.
 
@@ -45,11 +45,11 @@ ___
 - **Reading Assignment:** t.b.d.
 
 - **Exercise:**
-	- You will find a steganographic method called iStegSiri for iOS published in (Caviglione and Mazurczyk, 2015). Explain how it works.
+
 
 ___
 
-### Week 3: Fundamental countermeasures (not network-specific)
+### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific)
 
 - **Video:** t.b.d.
 
@@ -61,7 +61,7 @@ ___
 
 ___
 
-### Week 4: Fundamental network information hiding techniques
+### Week 3: Chapter 4 - Fundamental network information hiding techniques
 
 - **Video:** t.b.d.
 
@@ -70,10 +70,11 @@ ___
 - **Reading Assignment:** t.b.d.
 
 - **Exercise:**
+	- In [this paper](https://ieeexplore.ieee.org/abstract/document/7030266), you will find a steganographic method called *iStegSiri* for iOS published by Caviglione and Mazurczyk. Explain how it works! Also, [here](https://spectrum.ieee.org/tech-talk/telecom/security/malware-could-steal-data-from-iphones-using-siri) is a news article about iStegSiri.
 
 ___
 
-### Week 5: Getting the big picture: hiding patterns
+### Week 4: Chapter 5 - Getting the big picture: hiding patterns
 
 - **Video:** t.b.d.
 
@@ -85,7 +86,7 @@ ___
 
 ___
 
-### Week 6: Staying under the radar: sophisticated hiding methods and distributed hiding patterns
+### Week 5: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 
 - **Video:** t.b.d.
 
@@ -97,7 +98,7 @@ ___
 
 ___
 
-### Week 7: Selected countermeasures
+### Week 6: Chapter 7 - Selected network-levl countermeasures
 
 - **Video:** t.b.d.
 
@@ -109,7 +110,7 @@ ___
 
 ___
 
-### Week 8: Replicating experiments for scientific advancement
+### Week 7: Chapter 8 - Replicating experiments for scientific advancement
 
 - **Video:** t.b.d.
 
@@ -121,7 +122,7 @@ ___
 
 ___
 
-### Week 9: *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
+### Week 8: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
 
 - **Video:** t.b.d.
 
@@ -133,7 +134,7 @@ ___
 
 ___
 
-### Week 10: *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
+### Week 9: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
 
 - **Video:** [Screencast](https://www.youtube.com/watch?v=Q7eAcBzojvo) of S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
@@ -145,7 +146,7 @@ ___
 
 ___
 
-### Week 11: Summary and Overall conclusion
+### Week 10: Chapter 11 - Summary and Overall conclusion
 
 - **Video:** t.b.d.
 
@@ -157,7 +158,7 @@ ___
 
 ___
 
-### maybe: Week 12. Extension (e.g. lectures by experts)
+### *maybe*: Week 11. Extension (e.g. lectures by experts)
 
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
 
