@@ -14,7 +14,7 @@ I made sure that references are using links so that you and your students can ge
 
 - **Video:** t.b.d.
 
-- **Slides:** t.b.d.
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch1.pdf)
 
 - **Reading Assignment:**
 	- F. Petitcolas, R. Anderson, M. Kuhn: [Information Hiding – A Survey](https://ieeexplore.ieee.org/abstract/document/771065), Proc. IEEE, 87(7), 1999.
