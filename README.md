@@ -28,7 +28,7 @@ I made sure that references are using links so that you and your students can ge
 	-  K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
 
 - **Exercise:**
-	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students (no slides; you can use the whiteboard).
+	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students.
 	- Is there a terminological inconsistency for the terms covert channel, network covert channel, steganography and network steganography given the introduced taxonomy? If yes: explain. (Chapter 2 of W. Mazurczyk et al., 2016)
 	- Can Information Hiding methods be applied to deduce cryptography keys from encryption/decryption tools? If yes: how?
 ___
@@ -43,7 +43,7 @@ ___
 - **Reading Assignment:** t.b.d.
 
 - **Exercise:**
-	- You will find a steganographic method called iStegSiri for iOS published in (Caviglione and Mazurczyk, 2015). Explain how it works using the whiteboard.
+	- You will find a steganographic method called iStegSiri for iOS published in (Caviglione and Mazurczyk, 2015). Explain how it works.
 
 ___
 
