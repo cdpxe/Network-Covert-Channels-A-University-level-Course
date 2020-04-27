@@ -12,7 +12,9 @@ I made sure that references are using links so that you and your students can ge
 
 ## Outline
 
-### Week 1: Introduction to steganography and covert channels
+*This online class **starts on May 5th, 2020**. I will upload videos once in a week.*
+
+### Week 1: Introduction to steganography and covert channels (May 5th, 2020)
 
 - **Video:** t.b.d.
 
