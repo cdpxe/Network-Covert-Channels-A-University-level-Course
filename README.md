@@ -16,7 +16,7 @@ I made sure that references are using links so that you and your students can ge
 
 ### Week 1: Chapter 1 - Introduction to Steganography and Covert Channels (May 5th, 2020)
 
-- **Video:** t.b.d.
+- **Video:** [YouTube](https://www.youtube.com/watch?v=7YXXrbTah_s)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch1.pdf)
 
