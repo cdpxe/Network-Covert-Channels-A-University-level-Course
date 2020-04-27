@@ -4,9 +4,11 @@
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
 
 ## Introduction
-This is a open online course for network covert channels. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. More material will be added. You can always find the latest version of my slides here, as I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class.
+This is a open online course for network covert channels. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. I also used it at other universities, summer schools etc. over the years.
 
-I made sure that references are using links so that you and your students can get direct access to the publications.
+*Note:* More material will be added. You can always find the latest version of my slides here, as I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class.
+
+I made sure that references are using links so that you and your students can get easier access to the publications.
 
 ## Outline
 
@@ -26,9 +28,10 @@ I made sure that references are using links so that you and your students can ge
 	-  K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
 
 - **Exercise:**
-	- Exercise: Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students (no slides; you can use the whiteboard).
+	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students (no slides; you can use the whiteboard).
 	- Is there a terminological inconsistency for the terms covert channel, network covert channel, steganography and network steganography given the introduced taxonomy? If yes: explain. (Chapter 2 of W. Mazurczyk et al., 2016)
 	- Can Information Hiding methods be applied to deduce cryptography keys from encryption/decryption tools? If yes: how?
+___
 
 
 ### Week 2: Introduction to classic covert channels
@@ -42,6 +45,8 @@ I made sure that references are using links so that you and your students can ge
 - **Exercise:**
 	- You will find a steganographic method called iStegSiri for iOS published in (Caviglione and Mazurczyk, 2015). Explain how it works using the whiteboard.
 
+___
+
 ### Week 3: Fundamental countermeasures (not network-specific)
 
 - **Video:** t.b.d.
@@ -51,6 +56,8 @@ I made sure that references are using links so that you and your students can ge
 - **Reading Assignment:** t.b.d.
 
 - **Exercise:** t.b.d.
+
+___
 
 ### Week 4: Fundamental network information hiding techniques
 
@@ -62,6 +69,8 @@ I made sure that references are using links so that you and your students can ge
 
 - **Exercise:** https://github.com/cdpxe/CCEAP/tree/master/sample_exercises
 
+___
+
 ### Week 5: Getting the big picture: hiding patterns
 
 - **Video:** t.b.d.
@@ -71,6 +80,8 @@ I made sure that references are using links so that you and your students can ge
 - **Reading Assignment:** t.b.d.
 
 - **Exercise:** t.b.d.
+
+___
 
 ### Week 6: Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 
@@ -82,6 +93,8 @@ I made sure that references are using links so that you and your students can ge
 
 - **Exercise:** t.b.d.
 
+___
+
 ### Week 7: Selected countermeasures
 
 - **Video:** t.b.d.
@@ -91,6 +104,8 @@ I made sure that references are using links so that you and your students can ge
 - **Reading Assignment:** t.b.d.
 
 - **Exercise:** t.b.d.
+
+___
 
 ### Week 8: Replicating experiments for scientific advancement
 
@@ -102,6 +117,8 @@ I made sure that references are using links so that you and your students can ge
 
 - **Exercise:** t.b.d.
 
+___
+
 ### Week 9: *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
 
 - **Video:** t.b.d.
@@ -111,6 +128,8 @@ I made sure that references are using links so that you and your students can ge
 - **Reading Assignment:** t.b.d.
 
 - **Exercise:** t.b.d.
+
+___
 
 ### Week 10: *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
 
@@ -122,6 +141,8 @@ I made sure that references are using links so that you and your students can ge
 
 - **Exercise:** t.b.d.
 
+___
+
 ### Week 11: Summary and Overall conclusion
 
 - **Video:** t.b.d.
@@ -132,9 +153,13 @@ I made sure that references are using links so that you and your students can ge
 
 - **Exercise:** t.b.d.
 
+___
+
 ### maybe: Week 12. Extension (e.g. lectures by experts)
 
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
+
+___
 
 ## TODO
 
