@@ -68,10 +68,11 @@ ___
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
 
 - **Exercise:**
-	- In [this paper](https://ieeexplore.ieee.org/abstract/document/7030266), you will find a steganographic method called *iStegSiri* for iOS published by Caviglione and Mazurczyk. Explain how it works! Also, [here](https://spectrum.ieee.org/tech-talk/telecom/security/malware-could-steal-data-from-iphones-using-siri) is a news article about iStegSiri.
+	- In the paper of the reading asignment, you will find a steganographic method called *iStegSiri* for iOS published by Caviglione and Mazurczyk. Explain how it works! Also, [here](https://spectrum.ieee.org/tech-talk/telecom/security/malware-could-steal-data-from-iphones-using-siri) is a news article about iStegSiri.
 
 ___
 
