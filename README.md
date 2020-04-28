@@ -1,4 +1,4 @@
-# Network Information Hiding: Terminology, Methodology of Network Steganography / Network Covert Channels
+# Network Information Hiding 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
 ### Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
@@ -15,7 +15,7 @@ I made sure that references are using links so that you and your students can ge
 *This online class **starts on May 5th, 2020**. I will upload videos once in a week.* Please note that some weeks contain multiple videos:
 
 
-| Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |...|... |
+| Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 |...|...|... |
 |-----------|---|---|---|---|---|---|---|---|---|----|
 | Chapter 1 | X |   |   |   |   |   |   |   |   |    |
 | Chapter 2 |   | X |   |   |   |   |   |   |   |    |
@@ -27,10 +27,8 @@ I made sure that references are using links so that you and your students can ge
 | Chapter 8 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 9 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 10|   |   |   |   |   |   | X |   |   |    |
-| Chapter 11|   |   |   |   |   |   |   | X |   |    |
+| Chapter 11|   |   |   |   |   |   | X |   |   |    |
 
-
-Yes, this is not a full-semester course, but roughly a 65% of a typical semester's content.
 
 ### Week 1: Chapter 1 - Introduction to Steganography and Covert Channels (May 5th, 2020)
 
@@ -54,7 +52,7 @@ Yes, this is not a full-semester course, but roughly a 65% of a typical semester
 ___
 
 
-### Week 2-a: Chapter 2 - Introduction to classic covert channels
+### Week 2-a: Chapter 2 - Introduction to classic covert channels (May 12th, 2020)
 
 - **Video:** [YouTube](https://youtu.be/MBV-NFQLH34)
 
@@ -73,7 +71,7 @@ ___
 
 ___
 
-### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific)
+### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific) (May 12th, 2020)
 
 - **Video:** t.b.d.
 
@@ -96,7 +94,7 @@ ___
 
 ___
 
-### Week 3-a: Chapter 4 - Fundamental network information hiding techniques
+### Week 3-a: Chapter 4 - Fundamental network information hiding techniques (May 19th, 2020)
 
 - **Video:** t.b.d.
 
@@ -110,7 +108,7 @@ ___
 
 ___
 
-### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns
+### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns (May 19th, 2020)
 
 - **Video:** t.b.d.
 
@@ -122,7 +120,7 @@ ___
 
 ___
 
-### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns
+### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns (May 26th, 2020)
 
 - **Video:** t.b.d.
 
@@ -134,7 +132,7 @@ ___
 
 ___
 
-### Week 5: Chapter 7 - Selected network-level countermeasures
+### Week 5: Chapter 7 - Selected network-level countermeasures (June 2nd, 2020)
 
 - **Video:** t.b.d.
 
@@ -146,7 +144,7 @@ ___
 
 ___
 
-### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement
+### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement (June 9th, 2020)
 
 - **Video:** t.b.d.
 
@@ -158,7 +156,7 @@ ___
 
 ___
 
-### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
+### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper? (June 9th, 2020)
 
 - **Video:** t.b.d.
 
@@ -170,7 +168,7 @@ ___
 
 ___
 
-### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
+### Week 7-a: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
 
 - **Video:** [Screencast](https://www.youtube.com/watch?v=Q7eAcBzojvo) of S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
@@ -182,7 +180,7 @@ ___
 
 ___
 
-### Week 8: Chapter 11 - Summary and Overall conclusion
+### Week 7-b: Chapter 11 - Summary and Overall conclusion (June 16th, 2020)
 
 - **Video:** t.b.d.
 
@@ -194,7 +192,7 @@ ___
 
 ___
 
-### *maybe*: Week 11. Extension (e.g. lectures by experts)
+### *maybe*: Week 8. Extension (e.g. lectures by experts)
 
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
 
