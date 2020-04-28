@@ -12,7 +12,25 @@ I made sure that references are using links so that you and your students can ge
 
 ## Outline
 
-*This online class **starts on May 5th, 2020**. I will upload videos once in a week.*
+*This online class **starts on May 5th, 2020**. I will upload videos once in a week.* Please note that some weeks contain multiple videos:
+
++-----------+----------------------------------------+
+| Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |...|... |
++-----------+----------------------------------------+
+| Chapter 1 | X |   |   |   |   |   |   |   |   |    |
+| Chapter 2 |   | X |   |   |   |   |   |   |   |    |
+| Chapter 3 |   | X |   |   |   |   |   |   |   |    |
+| Chapter 4 |   |   | X |   |   |   |   |   |   |    |
+| Chapter 5 |   |   | X |   |   |   |   |   |   |    |
+| Chapter 6 |   |   |   | X |   |   |   |   |   |    |
+| Chapter 7 |   |   |   |   | X |   |   |   |   |    |
+| Chapter 8 |   |   |   |   |   | X |   |   |   |    |
+| Chapter 9 |   |   |   |   |   | X |   |   |   |    |
+| Chapter 10|   |   |   |   |   |   | X |   |   |    |
+| Chapter 11|   |   |   |   |   |   |   | X |   |    |
++-----------+----------------------------------------+
+
+Yes, this is not a full-semester course, but roughly a 65% of a typical semester's content.
 
 ### Week 1: Chapter 1 - Introduction to Steganography and Covert Channels (May 5th, 2020)
 
@@ -72,7 +90,7 @@ ___
 
 ___
 
-### Week 3: Chapter 4 - Fundamental network information hiding techniques
+### Week 3-a: Chapter 4 - Fundamental network information hiding techniques
 
 - **Video:** t.b.d.
 
@@ -86,7 +104,7 @@ ___
 
 ___
 
-### Week 4: Chapter 5 - Getting the big picture: hiding patterns
+### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns
 
 - **Video:** t.b.d.
 
@@ -98,7 +116,7 @@ ___
 
 ___
 
-### Week 5: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns
+### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 
 - **Video:** t.b.d.
 
@@ -110,7 +128,7 @@ ___
 
 ___
 
-### Week 6: Chapter 7 - Selected network-levl countermeasures
+### Week 5: Chapter 7 - Selected network-level countermeasures
 
 - **Video:** t.b.d.
 
@@ -122,7 +140,7 @@ ___
 
 ___
 
-### Week 7: Chapter 8 - Replicating experiments for scientific advancement
+### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement
 
 - **Video:** t.b.d.
 
@@ -134,7 +152,7 @@ ___
 
 ___
 
-### Week 8: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
+### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
 
 - **Video:** t.b.d.
 
@@ -146,7 +164,7 @@ ___
 
 ___
 
-### Week 9: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
+### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT)
 
 - **Video:** [Screencast](https://www.youtube.com/watch?v=Q7eAcBzojvo) of S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
@@ -158,7 +176,7 @@ ___
 
 ___
 
-### Week 10: Chapter 11 - Summary and Overall conclusion
+### Week 8: Chapter 11 - Summary and Overall conclusion
 
 - **Video:** t.b.d.
 
