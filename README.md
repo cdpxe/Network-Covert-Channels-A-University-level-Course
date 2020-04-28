@@ -86,7 +86,13 @@ ___
 	- *in German:* I discuss SRM, extended SRM (Gypsy SRM), CFT, the Pump, and several other fundamental anti-covert channel concepts in my book S. Wendzel: *Tunnel und verdeckte Kanäle im Netz*, Springer, 2012 ([Chapter 6](https://link.springer.com/chapter/10.1007/978-3-8348-2143-0_6)).
 
 - **Exercise:**
-	- t.b.d.
+	- Which method would you apply to eliminate/spot covert channels in the following situations:
+		- The company you are working for wishes to get a certificate (e.g. a high level of EAL) for their product; the certificate requires a code-level audit that lists all possible covert storage channels.
+		- You plan to design a new product (not implemented in code). You need to perform a covert channel analysis using the product’s specification.
+		- Your company plans to sell a product to a military customer. The customer requires a covert timing channel audit, which you performed. However, the customer will only accept covert channels with a channel capacity below 1 bit/s.
+	- How could you create a policy-breaking covert channel during your exam in order to secretly exchange answers to exam questions?
+		- Link this scenario to the Prisoner’s Problem.
+
 
 ___
 
