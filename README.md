@@ -114,9 +114,15 @@ ___
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
+	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, Chapter 3](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 
-- **Exercise:** Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and make sure you understand the provided solutions.
+- **Optional Papers to Read:**
+	- W. Mazurczyk, S. Wendzel, K. Cabaj: [Towards Deriving Insights into Data Hiding Methods Using Pattern-based Approach](https://doi.org/10.1145/3230833.3233261), in Proc. ARES, ACM, 2018.
+
+- **Exercise:**
+	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and make sure you understand the provided solutions.
 
 ___
 
