@@ -14,9 +14,9 @@ I made sure that references are using links so that you and your students can ge
 
 *This online class **starts on May 5th, 2020**. I will upload videos once in a week.* Please note that some weeks contain multiple videos:
 
-+-----------+----------------------------------------+
+
 | Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |...|... |
-+-----------+----------------------------------------+
+|-----------|---|---|---|---|---|---|---|---|---|----|
 | Chapter 1 | X |   |   |   |   |   |   |   |   |    |
 | Chapter 2 |   | X |   |   |   |   |   |   |   |    |
 | Chapter 3 |   | X |   |   |   |   |   |   |   |    |
@@ -28,7 +28,7 @@ I made sure that references are using links so that you and your students can ge
 | Chapter 9 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 10|   |   |   |   |   |   | X |   |   |    |
 | Chapter 11|   |   |   |   |   |   |   | X |   |    |
-+-----------+----------------------------------------+
+
 
 Yes, this is not a full-semester course, but roughly a 65% of a typical semester's content.
 
