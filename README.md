@@ -73,7 +73,7 @@ ___
 
 ### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific) (May 12th, 2020)
 
-- **Video:** t.b.d.
+- **Video:** [PDF](https://youtu.be/6cjsPzLscd8)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch3.pdf)
 
