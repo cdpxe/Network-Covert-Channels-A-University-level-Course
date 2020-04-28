@@ -59,11 +59,16 @@ ___
 
 - **Video:** t.b.d.
 
-- **Slides:** t.b.d.
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch3.pdf)
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- R. Kemmerer, P. Porras: Covert Flow Trees: A Visual Approach to Analyzing Covert Storage Channels, Trans. Software Engineering, IEEE, 1991.
 
-- **Exercise:** t.b.d.
+- **Optional Papers to Read:**
+	- *in German:* I discuss SRM, extended SRM (Gypsy SRM), CFT, the Pump, and several other fundamental anti-covert channel concepts in my book S. Wendzel: *Tunnel und verdeckte Kanäle im Netz*, Springer, 2012 (Chapter 5).
+
+- **Exercise:**
+	- t.b.d.
 
 ___
 
