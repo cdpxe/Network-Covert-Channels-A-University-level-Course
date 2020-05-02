@@ -4,7 +4,7 @@
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
 
 ## Introduction
-This is a open online course for network covert channels. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. I also used it at other universities, summer schools etc. over the years.
+This is a open online course for network covert channels. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. (I recorded the videos anyway, so why shouldn't I make them public.) I also used the slides at other universities, summer schools etc. over the years.
 
 *Note:* More material will be added. You can always find the latest version of my slides here, as I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class.
 
@@ -17,18 +17,20 @@ I made sure that references are using links so that you and your students can ge
 
 | Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 |...|...|... |
 |-----------|---|---|---|---|---|---|---|---|---|----|
-| Chapter 1 | X |   |   |   |   |   |   |   |   |    |
-| Chapter 2 |   | X |   |   |   |   |   |   |   |    |
-| Chapter 3 |   | X |   |   |   |   |   |   |   |    |
-| Chapter 4 |   |   | X |   |   |   |   |   |   |    |
-| Chapter 5 |   |   | X |   |   |   |   |   |   |    |
-| Chapter 6 |   |   |   | X |   |   |   |   |   |    |
-| Chapter 7 |   |   |   |   | X |   |   |   |   |    |
+| Chapter 1 | X *N,M* |   |   |   |   |   |   |   |   |    |
+| Chapter 2 |   | X *M* |   |   |   |   |   |   |   |    |
+| Chapter 3 |   | X *M* |   |   |   |   |   |   |   |    |
+| Chapter 4 |   |   | X *N,M* |   |   |   |   |   |   |    |
+| Chapter 5 |   |   | X *N,M*|   |   |   |   |   |   |    |
+| Chapter 6 |   |   |   | X *M* |   |   |   |   |   |    |
+| Chapter 7 |   |   |   |   | X *N,M* |   |   |   |   |    |
 | Chapter 8 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 9 |   |   |   |   |   | X |   |   |   |    |
-| Chapter 10|   |   |   |   |   |   | X |   |   |    |
-| Chapter 11|   |   |   |   |   |   | X |   |   |    |
+| Chapter 10|   |   |   |   |   |   | X *M* |   |   |    |
+| Chapter 11|   |   |   |   |   |   | X *M* |   |   |    |
 
+- *N*: relevant for *Network Security* class (B.Sc. level)
+- *M*: relevant for *Mobile Security* class (M.Sc. level)
 
 ### Week 1: Chapter 1 - Introduction to Steganography and Covert Channels (May 5th, 2020)
 
@@ -44,6 +46,7 @@ I made sure that references are using links so that you and your students can ge
 	- B. Pfitzmann: [Information Hiding Terminology](https://doi.org/10.1007/3-540-61996-8_52), Proc. 1st Information Hiding Workshop, Springer, 1996.
 	- E. Zielinska, W. Mazurczyk, K. Szczypiorski: [Trends in Steganography](https://dl.acm.org/doi/10.1145/2566590.2566610), Comm. ACM, 2014.
 	-  K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
+	- L. Caviglione: [Steg in the Wild](https://github.com/lucacav/steg-in-the-wild) (A list of attacks and malware using steganography or information hiding), Github repository.
 
 - **Exercise:**
 	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students.
@@ -176,7 +179,7 @@ ___
 
 ### Week 7-a: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
 
-- **Video:** [Screencast](https://www.youtube.com/watch?v=Q7eAcBzojvo) of S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
+- **Video:** [YouTube video](https://www.youtube.com/watch?v=Q7eAcBzojvo) of Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
 - **Slides:** t.b.d.
 
@@ -198,7 +201,7 @@ ___
 
 ___
 
-### *maybe*: Week 8. Extension (e.g. lectures by experts)
+### *maybe*: Week 8. Extension (e.g. lectures by invited experts)
 
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
 
