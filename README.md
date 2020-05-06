@@ -99,9 +99,9 @@ ___
 
 ### Week 3-a: Chapter 4 - Fundamental network information hiding techniques (May 19th, 2020)
 
-- **Video:** t.b.d.
+- **Video:** [YouTube]()
 
-- **Slides:** t.b.d.
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch4.pdf)
 
 - **Reading Assignment:**
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
