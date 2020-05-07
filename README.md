@@ -113,7 +113,7 @@ ___
 
 ### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns (May 19th, 2020)
 
-- **Video:** t.b.d.
+- **Video:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
 
