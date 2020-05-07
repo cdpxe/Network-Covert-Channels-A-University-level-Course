@@ -183,7 +183,10 @@ ___
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** Steffen Wendzel, Wojciech Mazurczyk, Georg Haas: [Steganography for Cyber-physical Systems](http://www.riverpublishers.com/journaldownload.php?file=RP_Journal_2245-1439_621.pdf), Journal of Cyber Security and Mobility (JCSM), Vol. 6(2), pp. 105-126, River Publishers, 2017.
+- **Reading Assignment:**
+	- Steffen Wendzel, Wojciech Mazurczyk, Georg Haas: [Steganography for Cyber-physical Systems](http://www.riverpublishers.com/journaldownload.php?file=RP_Journal_2245-1439_621.pdf), Journal of Cyber Security and Mobility (JCSM), Vol. 6(2), pp. 105-126, River Publishers, 2017.
+	- Aleksandar Velinov, Aleksandra Mileva, Steffen Wendzel, Wojciech Mazurczyk: [Covert Channels in the MQTT-Based Internet of Things](https://ieeexplore.ieee.org/document/8890870/), IEEE ACCESS, 2019.
+	- A Mileva, A Velinov, D Stojanov: [New covert channels in Internet of Things](http://eprints.ugd.edu.mk/20423/1/securware_2018_2_10_30122.pdf), in Proc. Securware 2018.
 
 - **Exercise:** t.b.d.
 
