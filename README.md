@@ -137,7 +137,9 @@ ___
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- S. Wendzel, J. Keller: [Systematic Engineering of Control Protocols for Covert Channels](https://link.springer.com/chapter/10.1007/978-3-642-32805-3_11), in Proc. CMS, Springer, 2012.
+	- S. Schmidt, W. Mazurczyk, R. Kulesza, J. Keller, C. Caviglione: [Exploiting IP telephony with silence suppression for hidden data transfers](https://www.sciencedirect.com/science/article/pii/S0167404818305777), Computers & Security, Vol. 79, 2018.
 
 - **Exercise:** t.b.d.
 
@@ -149,7 +151,10 @@ ___
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- todo: Cabuk et al. ...
+	- todo: Fadlalla et al. ...
+	- todo: Mazurcyk, Keller et al.: dynamic warden ...
 
 - **Exercise:** t.b.d.
 
@@ -161,7 +166,8 @@ ___
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- todo: Keidel et al. ...
 
 - **Exercise:** t.b.d.
 
