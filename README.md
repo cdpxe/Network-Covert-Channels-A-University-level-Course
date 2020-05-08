@@ -127,7 +127,7 @@ ___
 	- W. Mazurczyk, S. Wendzel, K. Cabaj: [Towards Deriving Insights into Data Hiding Methods Using Pattern-based Approach](https://doi.org/10.1145/3230833.3233261), in Proc. ARES, ACM, 2018.
 
 - **Exercise:**
-	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and make sure you understand the provided solutions.
+	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
 
 ___
 
@@ -154,6 +154,7 @@ ___
 - **Reading Assignment:**
 	- todo: Cabuk et al. ...
 	- todo: Fadlalla et al. ...
+	- todo: Zillien et al. ...
 	- todo: Mazurcyk, Keller et al.: dynamic warden ...
 
 - **Exercise:** t.b.d.
