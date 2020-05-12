@@ -35,6 +35,7 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 - *M*: relevant for *Mobile Security* class (M.Sc. level)
 
 ### Week 1: Chapter 1 - Introduction to Steganography and Covert Channels (May 5th, 2020)
+This chapter provides an overview of the whole class. Afterwards, fundamental terminology, taxonomy and history of information hiding will be covered. The chapter also highlights some use-cases (legitimate and criminal ones) and tells you a bit about the CUING initiative.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=7YXXrbTah_s)
 
@@ -58,6 +59,7 @@ ___
 
 
 ### Week 2-a: Chapter 2 - Introduction to classic covert channels (May 12th, 2020)
+First, simple methods for local (system-internal) covert channels are discussed. Second, covert channels between Docker containers and for Android are shown.
 
 - **Video:** [YouTube](https://youtu.be/MBV-NFQLH34)
 
@@ -77,6 +79,7 @@ ___
 ___
 
 ### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific) (May 12th, 2020)
+In this chapter, you will learn how covert channels can be detected, eliminated, and limited on the basis of exemplary countermeasures. These countermeasures can be applied at different states of a system's lifetime (design-phase to operation phase). In particular, I cover the Shared Resource Matrix (SRM) methodology, Covert Flow Trees (CFT), Fuzzy Time, and the Spurious Processes Approach.
 
 - **Video:** [YouTube](https://youtu.be/6cjsPzLscd8)
 
@@ -100,6 +103,7 @@ ___
 ___
 
 ### Week 3-a: Chapter 4 - Fundamental network information hiding techniques (May 19th, 2020)
+This chapter introduces basic methods for realizing network covert channels and their different types, in particular active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=29s696QwHVM)
 
@@ -114,6 +118,7 @@ ___
 ___
 
 ### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns (May 19th, 2020)
+In this chapter, so-called *hiding patterns* are introduced. Patterns are an universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
 
@@ -132,8 +137,9 @@ ___
 ___
 
 ### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns (May 26th, 2020)
+This chapter covers distributed hiding methods, including pattern variation, pattern hopping, protocol switching (protocol channels, protocol hopping covert channels), dynamic overlay routing for covert channels, micro protocols (covert channel internal control protocols, including their optimization), reversible data hiding (RDH), and dead drops that exploit network caches.
 
-- **Video:** t.b.d.
+- **Video:** YouTube
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch6.pdf)
 
