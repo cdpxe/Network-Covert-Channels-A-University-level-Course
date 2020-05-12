@@ -14,7 +14,7 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 
 ## Outline
 
-*This online class **starts on May 5th, 2020**. I will upload videos once in a week.* Please note that some weeks contain multiple videos:
+*This online class **starts on May 5th, 2020 but all content will remain online on Github for those who want to start later (or in a few years)**. I will upload videos once in a week.* Please note that some weeks contain multiple videos:
 
 
 | Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 |...|...|... |
