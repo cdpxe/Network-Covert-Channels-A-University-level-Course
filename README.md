@@ -153,7 +153,7 @@ ___
 	- Which pattern-based distributed hiding methods do protocol channels and protocol hopping covert channels belong to?
 	- Is the micro protocol grammar shown in the slides a language-subset of the cover protocol language?
 	- Have a look at the above-mentioned paper on by Schmidt et al.: How do the authors hide data in IP telephony traffic?
-	- Why was it beneficial to [improve the NEL phase](https://dl.gi.de/handle/20.500.12116/18270)?
+	- Why was it beneficial to [improve the NEL phase](https://dl.gi.de/handle/20.500.12116/18270)? Why does the original NEL phase suffer from a *Two-army Problem* and what is a Two-army Problem?
 	- In the paper referenced above by Krätzer et al. you can read about a network steganography method for IEEE 802.11 (WLAN) networks. How does it work? Can you link the hiding approach to a particular pattern?
 	- How do you think that distributed hiding methods could be detected or limited? (Will be answered in the next chapter.)
 
