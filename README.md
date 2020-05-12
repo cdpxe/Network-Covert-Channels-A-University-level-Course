@@ -139,7 +139,7 @@ ___
 ### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns (May 26th, 2020)
 This chapter covers distributed hiding methods, including pattern variation, pattern hopping, protocol switching (protocol channels, protocol hopping covert channels), dynamic overlay routing for covert channels, micro protocols (covert channel internal control protocols, including their optimization), reversible data hiding (RDH), and dead drops that exploit network caches.
 
-- **Video:** YouTube
+- **Video:** [YouTube](https://www.youtube.com/watch?v=YicdOu10FmE)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch6.pdf)
 
