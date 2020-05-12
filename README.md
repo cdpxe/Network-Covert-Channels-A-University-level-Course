@@ -28,8 +28,8 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 | Chapter 7 |   |   |   |   | X *N,M* |   |   |   |   |    |
 | Chapter 8 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 9 |   |   |   |   |   | X |   |   |   |    |
-| Chapter 10|   |   |   |   |   |   | X *M* |   |   |    |
-| Chapter 11|   |   |   |   |   |   | X *M* |   |   |    |
+| Chapter 10|   |   |   |   |   |   | X |   |   |    |
+| Chapter 11|   |   |   |   |   |   | X |   |   |    |
 
 - *N*: relevant for *Network Security* class (B.Sc. level)
 - *M*: relevant for *Mobile Security* class (M.Sc. level)
@@ -41,7 +41,7 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch1.pdf)
 
 - **Reading Assignment:**
-	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, Chapters 1 and 2](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
+	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, **Chapters 1 and 2**](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 
 - **Optional Papers to Read:**
 	- F. Petitcolas, R. Anderson, M. Kuhn: [Information Hiding – A Survey](https://ieeexplore.ieee.org/abstract/document/771065), Proc. IEEE, 87(7), 1999.
@@ -121,7 +121,7 @@ ___
 
 - **Reading Assignment:**
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
-	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, **Ch. 3**](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
+	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, **Chapter 3**](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 
 - **Optional Papers to Read:**
 	- W. Mazurczyk, S. Wendzel, K. Cabaj: [Towards Deriving Insights into Data Hiding Methods Using Pattern-based Approach](https://doi.org/10.1145/3230833.3233261), in Proc. ARES, ACM, 2018.
@@ -139,7 +139,7 @@ ___
 
 - **Reading Assignment:**
 	- W. Mazurczyk, P. Szary, S. Wendzel and L. Caviglione: [Towards Reversible Storage Network Covert Channels](https://doi.org/10.1145/3339252.3341493), in Proc. Third International Workshop on Criminal Use of Information Hiding (CUING 2019), pp. 69:1-69:8, ACM, 2019.
-	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), **Ch. 4**, Wiley-IEEE, 2016.
+	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks, **Chapter 4**](https://ieeexplore.ieee.org/book/7434879), Wiley-IEEE, 2016.
 
 - **Optional Papers to Read:**
 	- Yarochkin, F. et al.: [Towards adaptive covert communication system](https://ieeexplore.ieee.org/abstract/document/4725291/), in Proc. 14th IEEE Pacific Rim International Symposium on Dependable Computing. IEEE, 2008.
