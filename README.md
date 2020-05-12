@@ -166,6 +166,7 @@ This chapter covers distributed hiding methods, including pattern variation, pat
 ___
 
 ### Week 5: Chapter 7 - Selected network-level countermeasures (June 2nd, 2020)
+Abstract t.b.d.
 
 - **Video:** t.b.d.
 
@@ -182,6 +183,7 @@ ___
 ___
 
 ### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement (June 9th, 2020)
+Abstract t.b.d.
 
 - **Video:** t.b.d.
 
@@ -195,6 +197,7 @@ ___
 ___
 
 ### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper? (June 9th, 2020)
+Abstract t.b.d.
 
 - **Video:** t.b.d.
 
@@ -207,6 +210,7 @@ ___
 ___
 
 ### Week 7-a: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
+Abstract t.b.d.
 
 - **Video:** [YouTube video](https://www.youtube.com/watch?v=Q7eAcBzojvo) of Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
@@ -222,6 +226,7 @@ ___
 ___
 
 ### Week 7-b: Chapter 11 - Summary and Overall conclusion (June 16th, 2020)
+This chapter summarizes what we have learned in the ten previous chapters.
 
 - **Video:** t.b.d.
 
@@ -236,9 +241,3 @@ ___
 ### *maybe*: Week 8. Extension (e.g. lectures by invited experts)
 
 If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
-
-___
-
-## TODO
-
-- convert all publication's links to DOI
