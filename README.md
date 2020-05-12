@@ -86,7 +86,7 @@ ___
 	- R. Kemmerer, P. Porras: Covert Flow Trees: A Visual Approach to Analyzing Covert Storage Channels, Trans. Software Engineering, IEEE, 1991.
 
 - **Optional Papers to Read:**
-	- *in German:* I discuss SRM, extended SRM (Gypsy SRM), CFT, the Pump, and several other fundamental anti-covert channel concepts in my book S. Wendzel: *Tunnel und verdeckte Kanäle im Netz*, Springer, 2012 ([Chapter 6](https://link.springer.com/chapter/10.1007/978-3-8348-2143-0_6)).
+	- *in German:* I discuss SRM, extended SRM (Gypsy SRM), CFT, the Pump, and several other fundamental anti-covert channel concepts in my book S. Wendzel: *Tunnel und verdeckte Kanäle im Netz*, Springer, 2012 (**[Chapter 6](https://link.springer.com/chapter/10.1007/978-3-8348-2143-0_6)**).
 
 - **Exercise:**
 	- Which method would you apply to eliminate/spot covert channels in the following situations:
@@ -121,7 +121,7 @@ ___
 
 - **Reading Assignment:**
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
-	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, Chapter 3](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
+	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, **Ch. 3**](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 
 - **Optional Papers to Read:**
 	- W. Mazurczyk, S. Wendzel, K. Cabaj: [Towards Deriving Insights into Data Hiding Methods Using Pattern-based Approach](https://doi.org/10.1145/3230833.3233261), in Proc. ARES, ACM, 2018.
@@ -138,10 +138,22 @@ ___
 - **Slides:** t.b.d.
 
 - **Reading Assignment:**
-	- S. Wendzel, J. Keller: [Systematic Engineering of Control Protocols for Covert Channels](https://link.springer.com/chapter/10.1007/978-3-642-32805-3_11), in Proc. CMS, Springer, 2012.
-	- S. Schmidt, W. Mazurczyk, R. Kulesza, J. Keller, C. Caviglione: [Exploiting IP telephony with silence suppression for hidden data transfers](https://www.sciencedirect.com/science/article/pii/S0167404818305777), Computers & Security, Vol. 79, 2018.
+	- W. Mazurczyk, P. Szary, S. Wendzel and L. Caviglione: [Towards Reversible Storage Network Covert Channels](https://doi.org/10.1145/3339252.3341493), in Proc. Third International Workshop on Criminal Use of Information Hiding (CUING 2019), pp. 69:1-69:8, ACM, 2019.
+	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), **Ch. 4**, Wiley-IEEE, 2016.
 
-- **Exercise:** t.b.d.
+- **Optional Papers to Read:**
+	- Yarochkin, F. et al.: [Towards adaptive covert communication system](https://ieeexplore.ieee.org/abstract/document/4725291/), in Proc. 14th IEEE Pacific Rim International Symposium on Dependable Computing. IEEE, 2008.
+	- S. Wendzel, J. Keller: [Hidden and UnderControl](https://doi.org/10.1007/s12243-014-0423-x), Annals of Telecommunications (ANTE), Springer, 2014.
+	- S. Wendzel, J. Keller: [Systematic Engineering of Control Protocols for Covert Channels](https://link.springer.com/chapter/10.1007/978-3-642-32805-3_11), in Proc. Communications & Multimedia Security (CMS), Springer, 2012.
+	- S. Schmidt, W. Mazurczyk, R. Kulesza, J. Keller, C. Caviglione: [Exploiting IP telephony with silence suppression for hidden data transfers](https://www.sciencedirect.com/science/article/pii/S0167404818305777), Computers & Security, Vol. 79, 2018.
+	- Szczypiorski, K., Margasiński, I., Mazurczyk, W., Cabajetal.: [TrustMAS: Trusted communication platform for multi-agent  systems](https://link.springer.com/chapter/10.1007/978-3-540-88873-4_7), in Proc. OTM On the Move to Meaningful Internet Systems, Springer, 2008.
+
+- **Exercise:**
+	- Which pattern-based distributed hiding methods do protocol channels and protocol hopping covert channels belong to?
+	- Is the micro protocol grammar shown in the slides a language-subset of the cover protocol language?
+	- Have a look at the above-mentioned paper on by Schmidt et al.: How do the authors hide data in IP telephony traffic?
+	- Why was it beneficial to [improve the NEL phase](https://dl.gi.de/handle/20.500.12116/18270)?
+	- How do you think that distributed hiding methods could be detected or limited? (Will be answered in the next chapter.)
 
 ___
 
