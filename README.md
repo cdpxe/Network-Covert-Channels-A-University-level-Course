@@ -173,11 +173,15 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 - **Slides:** part A, part B
 
 - **Reading Assignment:**
-	- todo: Cabuk et al. ...
-	- todo: Zillien et al. ...
-	- todo: Mazurcyk, Keller et al.: dynamic warden ...
+	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks, **Chapter 8**](https://ieeexplore.ieee.org/book/7434879), Wiley-IEEE, 2016.
+	- S. Wendzel, F. Link, D. Eller, W. Mazurczyk: [Detection of Size Modulation Covert Channels Using Countermeasure Variation](http://www.jucs.org/jucs_25_11/detection_of_size_modulation), Journal of Universal Computer Science (J.UCS), Vol. 25(11), pp. 1396-1416, 2019.
 
-- **Exercise:** t.b.d.
+- **Optional Papers to Read:
+	- S. Cabuk, C. E. Brodley, C. Shields: [IP covert channel detection](https://dl.acm.org/doi/abs/10.1145/1513601.1513604), Trans. Information and System Security (TISSEC) Vol. 12(4), ACM, 2009.
+	- W. Mazurczyk, S. Wendzel, M. Chourib, J. Keller: [Countering Adaptive Network Covert Communication with Dynamic Wardens](https://doi.org/10.1016/j.future.2018.12.047), Future Generation Computer Systems (FGCS), Vol. 94, pp. 712-725, Elsevier, 2019.
+
+- **Exercise:**
+	- t.b.d., will be added in next semester(s) using the *NeFiAS* tool I currently implement (not published, yet)
 
 ___
 
