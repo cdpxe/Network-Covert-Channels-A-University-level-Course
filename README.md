@@ -166,15 +166,14 @@ This chapter covers distributed hiding methods, including pattern variation, pat
 ___
 
 ### Week 5: Chapter 7 - Selected network-level countermeasures (June 2nd, 2020)
-Abstract t.b.d.
+Chapter 7 finally introduces methods to combat network covert channels. The chapter is separated into two parts. Part A covers selected basic methods, namely traffic normalization (preventing/limiting), three methods by Berk et al. and Cabuk et al. (detection of inter-packet times pattern), and finally, the so-called *countermeasure variation*. Part B introduces countermeasures that help limiting and detecting sophisticated network covert channels, namely the protocol switching covert channels and the NEL phase. These methods are the *protocol (switching covert) channel-aware active warden* (PCAW) and the *dynamic warden*.
 
-- **Video:** t.b.d.
+- **Video:** YouTube: part A, part B
 
-- **Slides:** t.b.d.
+- **Slides:** part A, part B
 
 - **Reading Assignment:**
 	- todo: Cabuk et al. ...
-	- todo: Fadlalla et al. ...
 	- todo: Zillien et al. ...
 	- todo: Mazurcyk, Keller et al.: dynamic warden ...
 
