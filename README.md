@@ -25,7 +25,8 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 | Chapter 4 |   |   | X *N,M* |   |   |   |   |   |   |    |
 | Chapter 5 |   |   | X *N,M*|   |   |   |   |   |   |    |
 | Chapter 6 |   |   |   | X *M* |   |   |   |   |   |    |
-| Chapter 7 |   |   |   |   | X *N,M* |   |   |   |   |    |
+| Chapter 7a|   |   |   |   | X *N,M* |   |   |   |   |    |
+| Chapter 7b|   |   |   |   | X *M* |   |   |   |   |    |
 | Chapter 8 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 9 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 10|   |   |   |   |   |   | X |   |   |    |
@@ -170,7 +171,7 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 
 - **Video:** YouTube: part A, part B
 
-- **Slides:** part A, part B
+- **Slides:** [part A, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch6.pdf), part B
 
 - **Reading Assignment:**
 	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks, **Chapter 8**](https://ieeexplore.ieee.org/book/7434879), Wiley-IEEE, 2016.
