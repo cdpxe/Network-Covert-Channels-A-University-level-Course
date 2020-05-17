@@ -169,7 +169,7 @@ ___
 ### Week 5: Chapter 7 - Selected network-level countermeasures (June 2nd, 2020)
 Chapter 7 finally introduces methods to combat network covert channels. The chapter is separated into two parts. Part A covers selected basic methods, namely traffic normalization (preventing/limiting), three methods by Berk et al. and Cabuk et al. (detection of inter-packet times pattern), and finally, the so-called *countermeasure variation*. Part B introduces countermeasures that help limiting and detecting sophisticated network covert channels, namely the protocol switching covert channels and the NEL phase. These methods are the *protocol (switching covert) channel-aware active warden* (PCAW) and the *dynamic warden*.
 
-- **Video:** part A (YouTube), part B (YouTube)
+- **Video:** [part A (YouTube)](https://www.youtube.com/watch?v=DW8eT5NtoxE), part B (YouTube)
 
 - **Slides:** [part A (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7a.pdf), part B (PDF)
 
