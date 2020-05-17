@@ -171,7 +171,7 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 
 - **Video:** part A (YouTube), part B (YouTube)
 
-- **Slides:** [part A (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch6.pdf), part B (PDF)
+- **Slides:** [part A (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7a.pdf), part B (PDF)
 
 - **Reading Assignment:**
 	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks, **Chapter 8**](https://ieeexplore.ieee.org/book/7434879), Wiley-IEEE, 2016.
