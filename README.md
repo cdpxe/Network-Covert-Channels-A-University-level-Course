@@ -189,7 +189,7 @@ ___
 ### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement (June 9th, 2020)
 Abstract t.b.d.
 
-- **Video:** t.b.d.
+- **Video:** [(YouTube)](https://www.youtube.com/watch?v=hs_nPTwQXXA)
 
 - **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch8.pdf)
 
