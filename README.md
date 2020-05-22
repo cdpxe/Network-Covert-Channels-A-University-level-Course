@@ -27,7 +27,7 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 | Chapter 6 |   |   |   | X *M* |   |   |   |   |   |    |
 | Chapter 7a|   |   |   |   | X *N,M* |   |   |   |   |    |
 | Chapter 7b|   |   |   |   | X *M* |   |   |   |   |    |
-| Chapter 8 |   |   |   |   |   | X |   |   |   |    |
+| Chapter 8 |   |   |   |   |   | X *M* |   |   |   |    |
 | Chapter 9 |   |   |   |   |   | X |   |   |   |    |
 | Chapter 10|   |   |   |   |   |   | X |   |   |    |
 | Chapter 11|   |   |   |   |   |   | X |   |   |    |
@@ -182,32 +182,35 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 	- W. Mazurczyk, S. Wendzel, M. Chourib, J. Keller: [Countering Adaptive Network Covert Communication with Dynamic Wardens](https://doi.org/10.1016/j.future.2018.12.047), Future Generation Computer Systems (FGCS), Vol. 94, pp. 712-725, Elsevier, 2019.
 
 - **Exercise:**
-	- t.b.d., will be added in next semester(s) using the *NeFiAS* tool I currently implement (not published, yet)
+	- t.b.d., will be added in the next semester(s) using the *NeFiAS* tool I currently implement (not published, yet)
 
 ___
 
 ### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement (June 9th, 2020)
-Abstract t.b.d.
+First, I briefly discuss why we need replication studies and which obstacles prevent the conduction of these studies. Second, I show one study that we conducted ourselfs.
 
 - **Video:** [(YouTube)](https://www.youtube.com/watch?v=hs_nPTwQXXA)
 
 - **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch8.pdf)
 
-- **Reading Assignment:**
-	- todo: Keidel et al. ...
+- **Optional Papers to Read:**
+	- S. Wendzel, L. Caviglione, W. Mazurczyk, J.-F. Lalande: [Network Information Hiding and Science 2.0: Can it be a Match?](https://www.researchgate.net/publication/316215336_Network_Information_Hiding_and_Science_20_Can_it_be_a_Match), International Journal of Electronics and Telecommunications 63(2), 2017.
 
-- **Exercise:** t.b.d.
+- **Exercise:**
+	- none.
 
 ___
 
 ### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper? (June 9th, 2020)
-Abstract t.b.d.
+When a new hiding technique is found, how should it be described in a way that other authors can easily access it? How to ease replication studies? How to ease the process of finding out what still needs to be done? These questions can be answered with the *unified description method* for network information hiding techniques explained in this chapter. Moreover do I introduce the *creativity metric* that helps to decide about the novelty of a research contribution.
 
 - **Video:** t.b.d.
 
 - **Slides:** t.b.d.
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:**
+	- S. Wendzel, W. Mazurczyk, S. Zander: [Unified Description Method for Network Information Hiding Methods](http://dx.doi.org/10.3217/jucs-022-11-1456), Journal of Universal Computer Science (J.UCS), Vol. 22(11), 2016.
+	- t.b.d.: papers about experimental design
 
 - **Exercise:** t.b.d.
 
