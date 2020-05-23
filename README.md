@@ -230,7 +230,7 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 
 - **Exercise:**
 	- What is the difference between an intentional covert channel and an intentional side channel in a CPS? Can you name a few examples? Both terms of CPS Steganography are introduced in [this paper](https://www.researchgate.net/publication/229092563_Covert_and_Side_Channels_in_Buildings_and_the_Prototype_of_a_Building-aware_Active_Warden/link/00b495349285c92bbd000000/download). What was the solution proposed by this paper to combat both types of channels?
-	- In [this paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6468400&tag=1), I describe how how an MLS-based filtering can prevent covert and side channels in CPS network communications (exemplified using smart buildings). How does this work? What are limitations?
+	- In [this paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6468400&tag=1), I describe how an MLS-based filtering can prevent covert and side channels in CPS network communications (exemplified using smart buildings). How does this work? What are limitations?
 
 ___
 
