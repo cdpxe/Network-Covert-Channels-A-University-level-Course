@@ -197,7 +197,10 @@ First, I briefly discuss why we need replication studies and which obstacles pre
 	- S. Wendzel, L. Caviglione, W. Mazurczyk, J.-F. Lalande: [Network Information Hiding and Science 2.0: Can it be a Match?](https://www.researchgate.net/publication/316215336_Network_Information_Hiding_and_Science_20_Can_it_be_a_Match), International Journal of Electronics and Telecommunications 63(2), 2017.
 
 - **Exercise:**
-	- none.
+	- Answer the following questions:
+		- Why is it essential to replicate experiments?
+		- What can scientists do to support experimental replications of their *own* work?
+		- What is commonly referred to under the term *Open Science*?
 
 ___
 
@@ -210,9 +213,12 @@ When a new hiding technique is found, how should it be described in a way that o
 
 - **Reading Assignment:**
 	- S. Wendzel, W. Mazurczyk, S. Zander: [Unified Description Method for Network Information Hiding Methods](http://dx.doi.org/10.3217/jucs-022-11-1456), Journal of Universal Computer Science (J.UCS), Vol. 22(11), 2016.
-	- t.b.d.: papers about experimental design
 
-- **Exercise:** t.b.d.
+- **Exercise:**
+	- Read the above-mentioned paper on the unified description method and answer the following questions:
+		- What is the difference between the two attributes *required properties of the carrier* and *covert channel properties*?
+		- Why is the attribute on *control protocols* not mandatory in the unified description method?
+		- How does the *creativity metric* work together with the unified description method?
 
 ___
 
@@ -244,7 +250,8 @@ This chapter summarizes what we have learned in the ten previous chapters. I als
 
 - **Reading Assignment:** none
 
-- **Exercise:** none
+- **Exercise:**
+Congratulations, you made it through the whole class! Now it is time for the final (big!) exercise! Try to find a new network protocol for which there is absolutely no work available that analyzes covert channels in this protocol (use [Google Scholar](https://scholar.google.com) to find such works). Next, analyze the protocol regarding all known hiding patterns and describe all covert channels that you found using the unified description method. If you like, submit your paper to a conference (or: let me know and I can potentially link the paper at least here).
 
 ___
 
