@@ -17,20 +17,21 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 *This online class **starts on May 5th, 2020 but all content will remain online on Github for those who want to start later (or in a few years)**. I will upload videos once in a week.* Please note that some weeks contain multiple videos:
 
 
-| Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 |...|...|... |
-|-----------|---|---|---|---|---|---|---|---|---|----|
-| Chapter 1 | X *N,M* |   |   |   |   |   |   |   |   |    |
-| Chapter 2 |   | X *M* |   |   |   |   |   |   |   |    |
-| Chapter 3 |   | X *M* |   |   |   |   |   |   |   |    |
-| Chapter 4 |   |   | X *N,M* |   |   |   |   |   |   |    |
-| Chapter 5 |   |   | X *N,M*|   |   |   |   |   |   |    |
-| Chapter 6 |   |   |   | X *M* |   |   |   |   |   |    |
-| Chapter 7a|   |   |   |   | X *N,M* |   |   |   |   |    |
-| Chapter 7b|   |   |   |   | X *M* |   |   |   |   |    |
-| Chapter 8 |   |   |   |   |   | X *M* |   |   |   |    |
-| Chapter 9 |   |   |   |   |   | X |   |   |   |    |
-| Chapter 10|   |   |   |   |   |   | X |   |   |    |
-| Chapter 11|   |   |   |   |   |   | X |   |   |    |
+| Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|-----------|---|---|---|---|---|---|---|---|
+| Chapter 1 | X *N,M* |   |   |   |   |   |   |   |
+| Chapter 2 |   | X *M* |   |   |   |   |   |   |
+| Chapter 3 |   | X *M* |   |   |   |   |   |   |
+| Chapter 4 |   |   | X *N,M* |   |   |   |   |   |
+| Chapter 5 |   |   | X *N,M*|   |   |   |   |   |
+| Chapter 6 |   |   |   | X *M* |   |   |   |   |
+| Chapter 7a|   |   |   |   | X *N,M* |   |   |   |
+| Chapter 7b|   |   |   |   | X *M* |   |   |   |
+| Chapter 8 |   |   |   |   |   | X *M* |   |   |
+| Chapter 9 |   |   |   |   |   | X |   |   |
+| Chapter 10a|   |   |   |   |   |   | X |   |
+| Chapter 10b|   |   |   |   |   |   | X |   |
+| Chapter 11|   |   |   |   |   |   |   | X |
 
 - *N*: relevant for *Network Security* class (B.Sc. level)
 - *M*: relevant for *Mobile Security* class (M.Sc. level)
@@ -114,12 +115,12 @@ This chapter introduces basic methods for realizing network covert channels and 
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
 
 - **Exercise:**
-	- In the paper of the reading asignment, you will find a steganographic method called *iStegSiri* for iOS published by Caviglione and Mazurczyk. Explain how it works! Also, [here](https://spectrum.ieee.org/tech-talk/telecom/security/malware-could-steal-data-from-iphones-using-siri) is a news article about iStegSiri.
+	- In the paper of the reading assignment, you will find a steganographic method called *iStegSiri* for iOS published by Caviglione and Mazurczyk. Explain how it works! Also, [here](https://spectrum.ieee.org/tech-talk/telecom/security/malware-could-steal-data-from-iphones-using-siri) is a news article about iStegSiri.
 
 ___
 
 ### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns (May 19th, 2020)
-In this chapter, so-called *hiding patterns* are introduced. Patterns are an universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
+In this chapter, so-called *hiding patterns* are introduced. Patterns are a universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
 
@@ -187,7 +188,7 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 ___
 
 ### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement (June 9th, 2020)
-First, I briefly discuss why we need replication studies and which obstacles prevent the conduction of these studies. Second, I show one study that we conducted ourselfs.
+First, I briefly discuss why we need replication studies and which obstacles prevent the conduction of these studies. Second, I show one study that we conducted ourselves.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=hs_nPTwQXXA)
 
@@ -222,8 +223,8 @@ When a new hiding technique is found, how should it be described in a way that o
 
 ___
 
-### Week 7-a: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
-In the Internet of Things (and Cyber-physical Systems, CPS), data can either be hidden within network communications (e.g. in IoT protocols) *or* in can be hidden the CPS *components* (e.g. unused registers or states of actuators). I will discuss these methods as well as scenarios in this conference talk below. However, please note that the PDF files contain a much extended scenario. I plan to update the PDF slides in the coming years as there ist still quite a lot to say about this chapter.
+### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
+In the Internet of Things (and Cyber-physical Systems, CPS), data can either be hidden within network communications (e.g. in IoT protocols) *or* in can be hidden the CPS *components* (e.g. unused registers or states of actuators). I will discuss these methods as well as scenarios in this conference talk below. However, please note that the PDF files contain an extended scenario. I plan to update the PDF slides in the coming years as there is still quite a lot to say about this chapter.
 
 - **Video:** part A (t.b.d.), [part B, YouTube](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
@@ -241,7 +242,7 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 
 ___
 
-### Week 7-b: Chapter 11 - Summary and Overall conclusion (June 16th, 2020)
+### Week 8: Chapter 11 - Summary and Overall conclusion (June 16th, 2020)
 This chapter summarizes what we have learned in the ten previous chapters. I also highlight open research problems that might support you in finding topics for a Master or even a PhD thesis.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=pXo3mdmR_yM)
@@ -251,10 +252,6 @@ This chapter summarizes what we have learned in the ten previous chapters. I als
 - **Reading Assignment:** none
 
 - **Exercise:**
-Congratulations, you made it through the whole class! Now it is time for the final (big!) exercise! Try to find a new network protocol for which there is absolutely no work available that analyzes covert channels in this protocol (use [Google Scholar](https://scholar.google.com) to find such works). Next, analyze the protocol regarding all known hiding patterns and describe all covert channels that you found using the unified description method. If you like, submit your paper to a conference (or: let me know and I can potentially link the paper at least here).
+Congratulations, you made it through the whole class! **Now it is time for the final (big!) exercise!** Try to find a new network protocol for which there is absolutely no work available that analyzes covert channels in this protocol (use [Google Scholar](https://scholar.google.com) to find such works). Next, analyze the protocol regarding all known hiding patterns and describe all covert channels that you found using the unified description method. If you like, submit your paper to a conference (or: let me know and I can potentially link the paper at least here).
 
-___
-
-### *maybe*: Week 8. Extension (e.g. lectures by invited experts)
-
-If someone likes to contribute own lectures, then I am happy to link them here (e.g. your YouTube videos and slides). E.g. on VoIP stego, reversible stego, history of stego, ...
+EOF.
