@@ -221,8 +221,8 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 
 - **Video:** part A (t.b.d.), [part B (YouTube)](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
-- **Slides:** part A (t.b.d.), [part B (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10b.pdf)
-
+- **Slides:** [part A (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10a.pdf)
+, [part B (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10b.pdf)
 
 - **Reading Assignment:**
 	- Steffen Wendzel, Wojciech Mazurczyk, Georg Haas: [Steganography for Cyber-physical Systems](http://www.riverpublishers.com/journaldownload.php?file=RP_Journal_2245-1439_621.pdf), Journal of Cyber Security and Mobility (JCSM), Vol. 6(2), pp. 105-126, River Publishers, 2017.
