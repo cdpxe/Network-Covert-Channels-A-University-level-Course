@@ -169,9 +169,9 @@ ___
 ### Week 5: Chapter 7 - Selected network-level countermeasures (June 2nd, 2020)
 Chapter 7 finally introduces methods to combat network covert channels. The chapter is separated into two parts. **Part A** covers selected basic methods, namely traffic normalization (preventing/limiting), three methods by Berk et al. and Cabuk et al. (detection of inter-packet times pattern), and finally, the so-called *countermeasure variation*. **Part B** introduces countermeasures that help limiting and detecting sophisticated network covert channels, namely the protocol switching covert channels and the NEL phase. These methods are the *protocol (switching covert) channel-aware active warden* (PCAW) and the *dynamic warden*.
 
-- **Video:** [part A (YouTube)](https://www.youtube.com/watch?v=DW8eT5NtoxE), [part B (YouTube)](https://www.youtube.com/watch?v=v3AeSPAmF8Y)
+- **Video:** [part A, YouTube](https://www.youtube.com/watch?v=DW8eT5NtoxE), [part B, YouTube](https://www.youtube.com/watch?v=v3AeSPAmF8Y)
 
-- **Slides:** [part A (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7a.pdf), [part B (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7b.pdf)
+- **Slides:** [part A, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7a.pdf), [part B, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7b.pdf)
 
 - **Reading Assignment:**
 	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks, **Chapter 8**](https://ieeexplore.ieee.org/book/7434879), Wiley-IEEE, 2016.
@@ -189,9 +189,9 @@ ___
 ### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement (June 9th, 2020)
 First, I briefly discuss why we need replication studies and which obstacles prevent the conduction of these studies. Second, I show one study that we conducted ourselfs.
 
-- **Video:** [(YouTube)](https://www.youtube.com/watch?v=hs_nPTwQXXA)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=hs_nPTwQXXA)
 
-- **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch8.pdf)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch8.pdf)
 
 - **Optional Papers to Read:**
 	- S. Wendzel, L. Caviglione, W. Mazurczyk, J.-F. Lalande: [Network Information Hiding and Science 2.0: Can it be a Match?](https://www.researchgate.net/publication/316215336_Network_Information_Hiding_and_Science_20_Can_it_be_a_Match), International Journal of Electronics and Telecommunications 63(2), 2017.
@@ -204,9 +204,9 @@ ___
 ### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper? (June 9th, 2020)
 When a new hiding technique is found, how should it be described in a way that other authors can easily access it? How to ease replication studies? How to ease the process of finding out what still needs to be done? These questions can be answered with the *unified description method* for network information hiding techniques explained in this chapter. Moreover do I introduce the *creativity metric* that helps to decide about the novelty of a research contribution.
 
-- **Video:** [(YouTube)](https://www.youtube.com/watch?v=viieBAdAQh0)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0)
 
-- **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf)
 
 - **Reading Assignment:**
 	- S. Wendzel, W. Mazurczyk, S. Zander: [Unified Description Method for Network Information Hiding Methods](http://dx.doi.org/10.3217/jucs-022-11-1456), Journal of Universal Computer Science (J.UCS), Vol. 22(11), 2016.
@@ -219,10 +219,10 @@ ___
 ### Week 7-a: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
 In the Internet of Things (and Cyber-physical Systems, CPS), data can either be hidden within network communications (e.g. in IoT protocols) *or* in can be hidden the CPS *components* (e.g. unused registers or states of actuators). I will discuss these methods as well as scenarios in this conference talk below. However, please note that the PDF files contain a much extended scenario. I plan to update the PDF slides in the coming years as there ist still quite a lot to say about this chapter.
 
-- **Video:** part A (t.b.d.), [part B (YouTube)](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
+- **Video:** part A (t.b.d.), [part B, YouTube](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
-- **Slides:** [part A (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10a.pdf)
-, [part B (PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10b.pdf)
+- **Slides:** [part A, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10a.pdf)
+, [part B, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10b.pdf)
 
 - **Reading Assignment:**
 	- Steffen Wendzel, Wojciech Mazurczyk, Georg Haas: [Steganography for Cyber-physical Systems](http://www.riverpublishers.com/journaldownload.php?file=RP_Journal_2245-1439_621.pdf), Journal of Cyber Security and Mobility (JCSM), Vol. 6(2), pp. 105-126, River Publishers, 2017.
@@ -238,9 +238,9 @@ ___
 ### Week 7-b: Chapter 11 - Summary and Overall conclusion (June 16th, 2020)
 This chapter summarizes what we have learned in the ten previous chapters. I also highlight open research problems that might support you in finding topics for a Master or even a PhD thesis.
 
-- **Video:** [(YouTube)](https://www.youtube.com/watch?v=pXo3mdmR_yM)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=pXo3mdmR_yM)
 
-- **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch11.pdf)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch11.pdf)
 
 - **Reading Assignment:** none
 
