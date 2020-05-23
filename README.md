@@ -206,7 +206,7 @@ When a new hiding technique is found, how should it be described in a way that o
 
 - **Video:** t.b.d.
 
-- **Slides:** t.b.d.
+- **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf)
 
 - **Reading Assignment:**
 	- S. Wendzel, W. Mazurczyk, S. Zander: [Unified Description Method for Network Information Hiding Methods](http://dx.doi.org/10.3217/jucs-022-11-1456), Journal of Universal Computer Science (J.UCS), Vol. 22(11), 2016.
@@ -239,11 +239,11 @@ This chapter summarizes what we have learned in the ten previous chapters. I als
 
 - **Video:** t.b.d.
 
-- **Slides:** t.b.d.
+- **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch11.pdf)
 
-- **Reading Assignment:** t.b.d.
+- **Reading Assignment:** none
 
-- **Exercise:** t.b.d.
+- **Exercise:** none
 
 ___
 
