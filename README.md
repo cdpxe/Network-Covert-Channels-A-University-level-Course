@@ -219,7 +219,7 @@ ___
 ### Week 7-a: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
 In the Internet of Things (and Cyber-physical Systems, CPS), data can either be hidden within network communications (e.g. in IoT protocols) *or* in can be hidden the CPS *components* (e.g. unused registers or states of actuators). I will discuss these methods as well as scenarios in this conference talk below. However, please note that the PDF files contain a much extended scenario. I plan to update the PDF slides in the coming years as there ist still quite a lot to say about this chapter.
 
-- **Video:** [YouTube video](https://www.youtube.com/watch?v=Q7eAcBzojvo) of S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
+- **Video:** part A (t.b.d.), [part B (YouTube)](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
 - **Slides:** t.b.d.
 
@@ -237,7 +237,7 @@ ___
 ### Week 7-b: Chapter 11 - Summary and Overall conclusion (June 16th, 2020)
 This chapter summarizes what we have learned in the ten previous chapters. I also highlight open research problems that might support you in finding topics for a Master or even a PhD thesis.
 
-- **Video:** t.b.d.
+- **Video:** [(YouTube)](https://www.youtube.com/watch?v=pXo3mdmR_yM)
 
 - **Slides:** [(PDF)](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch11.pdf)
 
