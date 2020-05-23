@@ -235,7 +235,7 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 ___
 
 ### Week 7-b: Chapter 11 - Summary and Overall conclusion (June 16th, 2020)
-This chapter summarizes what we have learned in the ten previous chapters.
+This chapter summarizes what we have learned in the ten previous chapters. I also highlight open research problems that might support you in finding topics for a Master or even a PhD thesis.
 
 - **Video:** t.b.d.
 
