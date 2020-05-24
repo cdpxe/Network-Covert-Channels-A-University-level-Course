@@ -10,7 +10,7 @@ This is a open online course for network covert channels. The course contains vi
 
 I made sure that references are using links so that you and your students can get easier access to the publications.
 
-Please note that most content of this class is based on the book W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016. If you are an IEEE member, you should be able to download the book for free.
+Please note that quite some content of this class is based on the book W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016. If you are an IEEE member, you should be able to download the book for free.
 
 [*YouTube Playlist for this Class*](https://www.youtube.com/watch?v=7YXXrbTah_s&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s)
 
@@ -38,7 +38,7 @@ Please note that most content of this class is based on the book W. Mazurczyk, S
 - *N*: relevant for *Network Security* class (B.Sc. level)
 - *M*: relevant for *Mobile Security* class (M.Sc. level)
 
-### Week 1: Chapter 1 - Introduction to Steganography and Covert Channels (May 5th, 2020)
+### Week 1: Chapter 1 - Introduction to steganography and covert channels (May 5th, 2020)
 This chapter provides an overview of the whole class. Afterwards, fundamental terminology, taxonomy and history of information hiding will be covered. The chapter also highlights some use-cases (legitimate and criminal ones) and tells you a bit about the CUING initiative.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=7YXXrbTah_s)
@@ -225,7 +225,7 @@ When a new hiding technique is found, how should it be described in a way that o
 
 ___
 
-### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. Steganography in the Internet of Things (IoT) (June 16th, 2020)
+### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. steganography in the Internet of Things (IoT) (June 16th, 2020)
 In the Internet of Things (and Cyber-physical Systems, CPS), data can either be hidden within network communications (e.g. in IoT protocols) *or* in can be hidden the CPS *components* (e.g. unused registers or states of actuators). I will discuss these methods as well as scenarios in this conference talk below. However, please note that the PDF files contain an extended scenario. I plan to update the PDF slides in the coming years as there is still quite a lot to say about this chapter.
 
 - **Video:** [part A, YouTube](https://www.youtube.com/watch?v=P9XYV4mcPV0), [part B, YouTube](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
@@ -244,7 +244,7 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 
 ___
 
-### Week 8: Chapter 11 - Summary and Overall conclusion (June 23rd, 2020)
+### Week 8: Chapter 11 - Summary and overall conclusion (June 23rd, 2020)
 This chapter summarizes what we have learned in the ten previous chapters. I also highlight open research problems that might support you in finding topics for a Master or even a PhD thesis.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=pXo3mdmR_yM)
