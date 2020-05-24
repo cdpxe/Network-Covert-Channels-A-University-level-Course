@@ -4,11 +4,7 @@
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
 
 ## Introduction
-This is a open online course for network covert channels. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. (I recorded the videos anyway, so why shouldn't I make them public.) I also used the slides at other universities, summer schools etc. over the years.
-
-*Note:* More material will be added from semester to semester. You can always find the latest version of my slides here, as I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class.
-
-I made sure that references are using links so that you and your students can get easier access to the publications.
+This is an open online course on network information hiding. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. (I recorded the videos anyway, so why shouldn't I make them public.) I also used (a part of) these slides at other universities, summer schools etc. over the years. I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class. I made sure that references are using links so that you and your students can get easier access to the publications.
 
 Please note that quite some content of this class is based on the book W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016. If you are an IEEE member, you should be able to download the book for free.
 
