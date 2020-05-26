@@ -72,12 +72,12 @@ First, simple methods for local (system-internal) covert channels are discussed.
 - **Optional Papers to Read:**
 	- W. Mazurczyk, L. Caviglione: [Steganography in Modern Smartphones and Mitigation Techniques](https://ieeexplore.ieee.org/abstract/document/6884798), IEEE Communications Surveys & Tutorials, Vol. 17(1), 2014.
 	- J.-F. Lalande, S. Wendzel: [Hiding privacy leaks in Android applications using low-attention raising covert channels](https://ieeexplore.ieee.org/abstract/document/6657308/), Proc. 8th ARES, Regensburg, DE, IEEE, 2013.
-	- C. Kraetzer, J. Dittmann: [Steganography by synthesis: Can commonplace image manipulations like face morphing create plausible steganographic channels?](https://dl.acm.org/doi/10.1145/3230833.3233263), in Proc. 13th International Conference on Availability, Reliability and Security (ARES 2018), ACM, 2018.
+	- C. Krätzer, J. Dittmann: [Steganography by synthesis: Can commonplace image manipulations like face morphing create plausible steganographic channels?](https://dl.acm.org/doi/10.1145/3230833.3233263), in Proc. 13th International Conference on Availability, Reliability and Security (ARES 2018), ACM, 2018.
 
 - **Exercise:**
 	- Low-attention raising covert channels (such as described in the paper by Lalande and Wendzel above) are usually linked to a small bitrate. Explain why such channels can be considered valuable especially in network environments.
 	- Given the rising trend of censorship circumvention, why do you think is Information Hiding not applied by a large number of people? (And who does actually apply it?)
-	- The above-mentioned paper by Kraetzer et al. proposes a "modern (post 2010) steganographic communication setup". Why did the authors introduce this model? How does it differ from the classical *prisoner's problem* that was covered in Chapter 1?
+	- The above-mentioned paper by Krätzer et al. proposes a "modern (post 2010) steganographic communication setup". Why did the authors introduce this model? How does it differ from the classical *prisoner's problem* that was covered in Chapter 1?
 
 ___
 
