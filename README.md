@@ -49,7 +49,8 @@ This chapter provides an overview of the whole class. Afterwards, fundamental te
 	- B. Pfitzmann: [Information Hiding Terminology](https://doi.org/10.1007/3-540-61996-8_52), Proc. 1st Information Hiding Workshop, Springer, 1996.
 	- E. Zielinska, W. Mazurczyk, K. Szczypiorski: [Trends in Steganography](https://dl.acm.org/doi/10.1145/2566590.2566610), Comm. ACM, 2014.
 	-  K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
-	- L. Caviglione: [Steg in the Wild](https://github.com/lucacav/steg-in-the-wild) (A list of attacks and malware using steganography or information hiding), Github repository.
+	- L. Caviglione: [Steg in the Wild](https://github.com/lucacav/steg-in-the-wild) (a list of attacks and malware using steganography or information hiding), Github repository.
+	- L. Caviglione: [List of Stego Tools](https://github.com/lucacav/steg-tools) (a list of available stego tools)
 
 - **Exercise:**
 	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students.
