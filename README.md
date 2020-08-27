@@ -169,6 +169,7 @@ This chapter covers distributed hiding methods, including pattern variation, pat
 	- Why was it beneficial to [improve the NEL phase](https://dl.gi.de/handle/20.500.12116/18270)? Why does the original NEL phase suffer from a *Two-army Problem* and what is a Two-army Problem?
 	- In the paper referenced above by Krätzer et al. you can read about a network steganography method for IEEE 802.11 (WLAN) networks. How does it work? Can you link the hiding approach to a particular pattern?
 	- How do you think that distributed hiding methods could be detected or limited? (Will be answered in the next chapter.)
+	- How did the paper [Covert Storage Caches using the NTP Protocol](https://dl.acm.org/doi/10.1145/3407023.3409207) advance over previous work that uses ARP (see reading assignment above)? Why is this useful for an attacker? What are the limitations of the NTP-based approach?
 
 ___
 
