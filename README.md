@@ -4,7 +4,7 @@
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
 
 ## Introduction
-This is an open online course on network information hiding. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. (I recorded the videos anyway, so why shouldn't I make them public.) I also used (a part of) these slides at other universities, summer schools etc. over the years. I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class. I made sure that references are using links so that you and your students can get easier access to the publications.
+This is an open online course on network information hiding. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. (I recorded the videos anyway, so why shouldn't I make them public.) I also used (a part of) these slides at other universities, summer schools etc. over the years. I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class. I made sure that references are using links so that you and your students can get easier access to the publications. After remaining a closed offline class for several years, this class was initially taught online in summer term 2020. However, it remains online for the future and will receive updates from time to time.
 
 Please note that quite some content of this class is based on the book W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016. If you are an IEEE member, you should be able to download the book for free.
 
@@ -12,7 +12,7 @@ Please note that quite some content of this class is based on the book W. Mazurc
 
 ## Outline
 
-*This online class **starts on May 5th, 2020 but all content will remain online on Github for those who want to start later (or in a few years)**. I will upload videos once in a week.* Please note that some weeks contain multiple videos:
+Here is a schedule for this class. Please note that some weeks contain multiple videos:
 
 
 | Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
@@ -31,10 +31,10 @@ Please note that quite some content of this class is based on the book W. Mazurc
 | Chapter 10b|   |   |   |   |   |   | X |   |
 | Chapter 11|   |   |   |   |   |   |   | X |
 
-- *N*: relevant for *Network Security* class (B.Sc. level)
-- *M*: relevant for *Mobile Security* class (M.Sc. level)
+- *N*: relevant for *Network Security* class (B.Sc. level); scheduling in Moodle might differ and is correct
+- *M*: relevant for *Mobile Security* class (M.Sc. level); scheduling in Moodle might differ and is correct
 
-### Week 1: Chapter 1 - Introduction to steganography and covert channels (May 5th, 2020)
+### Week 1: Chapter 1 - Introduction to steganography and covert channels
 This chapter provides an overview of the whole class. Afterwards, fundamental terminology, taxonomy and history of information hiding will be covered. The chapter also highlights some use-cases (legitimate and criminal ones) and tells you a bit about the CUING initiative.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=7YXXrbTah_s)
@@ -60,7 +60,7 @@ This chapter provides an overview of the whole class. Afterwards, fundamental te
 ___
 
 
-### Week 2-a: Chapter 2 - Introduction to classic covert channels (May 12th, 2020)
+### Week 2-a: Chapter 2 - Introduction to classic covert channels
 First, simple methods for local (system-internal) covert channels are discussed. Second, covert channels between Docker containers and for Android are shown.
 
 - **Video:** [YouTube](https://youtu.be/MBV-NFQLH34)
@@ -82,7 +82,7 @@ First, simple methods for local (system-internal) covert channels are discussed.
 
 ___
 
-### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific) (May 12th, 2020)
+### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific)
 In this chapter, you will learn how covert channels can be detected, eliminated, and limited on the basis of exemplary countermeasures. These countermeasures can be applied at different states of a system's lifetime (design-phase to operation phase). In particular, I cover the Shared Resource Matrix (SRM) methodology, Covert Flow Trees (CFT), Fuzzy Time, and the Spurious Processes Approach.
 
 - **Video:** [YouTube](https://youtu.be/6cjsPzLscd8)
@@ -106,7 +106,7 @@ In this chapter, you will learn how covert channels can be detected, eliminated,
 
 ___
 
-### Week 3-a: Chapter 4 - Fundamental network information hiding techniques (May 19th, 2020)
+### Week 3-a: Chapter 4 - Fundamental network information hiding techniques
 This chapter introduces basic methods for realizing network covert channels and their different types, in particular active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=29s696QwHVM)
@@ -124,7 +124,7 @@ This chapter introduces basic methods for realizing network covert channels and 
 
 ___
 
-### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns (May 19th, 2020)
+### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns
 In this chapter, so-called *hiding patterns* are introduced. Patterns are a universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
@@ -143,7 +143,7 @@ In this chapter, so-called *hiding patterns* are introduced. Patterns are a univ
 
 ___
 
-### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns (May 26th, 2020)
+### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 This chapter covers distributed hiding methods, including pattern variation, pattern hopping, protocol switching (protocol channels, protocol hopping covert channels), dynamic overlay routing for covert channels, micro protocols (covert channel internal control protocols, including their optimization), reversible data hiding (RDH), and dead drops that exploit network caches.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=YicdOu10FmE)
@@ -173,7 +173,7 @@ This chapter covers distributed hiding methods, including pattern variation, pat
 
 ___
 
-### Week 5: Chapter 7 - Selected network-level countermeasures (June 2nd, 2020)
+### Week 5: Chapter 7 - Selected network-level countermeasures
 Chapter 7 finally introduces methods to combat network covert channels. The chapter is separated into two parts. **Part A** covers selected basic methods, namely traffic normalization (preventing/limiting), three methods by Berk et al. and Cabuk et al. (detection of inter-packet times pattern), and finally, the so-called *countermeasure variation*. **Part B** introduces countermeasures that help limiting and detecting sophisticated network covert channels, namely the protocol switching covert channels and the NEL phase. These methods are the *protocol (switching covert) channel-aware active warden* (PCAW) and the *dynamic warden*.
 
 - **Video:** [part A, YouTube](https://www.youtube.com/watch?v=DW8eT5NtoxE), [part B, YouTube](https://www.youtube.com/watch?v=v3AeSPAmF8Y)
@@ -193,7 +193,7 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 
 ___
 
-### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement (June 9th, 2020)
+### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement
 First, I briefly discuss why we need replication studies and which obstacles prevent the conduction of these studies. Second, I show one study that we conducted ourselves.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=hs_nPTwQXXA)
@@ -211,7 +211,7 @@ First, I briefly discuss why we need replication studies and which obstacles pre
 
 ___
 
-### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper? (June 9th, 2020)
+### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
 When a new hiding technique is found, how should it be described in a way that other authors can easily access it? How to ease replication studies? How to ease the process of finding out what still needs to be done? These questions can be answered with the *unified description method* for network information hiding techniques explained in this chapter. Moreover do I introduce the *creativity metric* that helps to decide about the novelty of a research contribution.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0)
@@ -229,7 +229,7 @@ When a new hiding technique is found, how should it be described in a way that o
 
 ___
 
-### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. steganography in the Internet of Things (IoT) (June 16th, 2020)
+### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. steganography in the Internet of Things (IoT)
 In the Internet of Things (and Cyber-physical Systems, CPS), data can either be hidden within network communications (e.g. in IoT protocols) *or* in can be hidden the CPS *components* (e.g. unused registers or states of actuators). I will discuss these methods as well as scenarios in this conference talk below. However, please note that the PDF files contain an extended scenario. I plan to update the PDF slides in the coming years as there is still quite a lot to say about this chapter.
 
 - **Video:** [part A, YouTube](https://www.youtube.com/watch?v=P9XYV4mcPV0), [part B, YouTube](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
@@ -248,7 +248,7 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 
 ___
 
-### Week 8: Chapter 11 - Summary and overall conclusion (June 23rd, 2020)
+### Week 8: Chapter 11 - Summary and overall conclusion
 This chapter summarizes what we have learned in the ten previous chapters. I also highlight open research problems that might support you in finding topics for a Master or even a PhD thesis.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=pXo3mdmR_yM)
