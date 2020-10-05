@@ -156,7 +156,7 @@ This chapter covers distributed hiding methods, including pattern variation, pat
 
 - **Optional Papers to Read:**
 	- Yarochkin, F. et al.: [Towards adaptive covert communication system](https://ieeexplore.ieee.org/abstract/document/4725291/), in Proc. 14th IEEE Pacific Rim International Symposium on Dependable Computing. IEEE, 2008.
-	- S. Wendzel, J. Keller: [Hidden and UnderControl](https://doi.org/10.1007/s12243-014-0423-x), Annals of Telecommunications (ANTE), Springer, 2014.
+	- S. Wendzel, J. Keller: [Hidden and Under Control](https://doi.org/10.1007/s12243-014-0423-x), Annals of Telecommunications (ANTE), Springer, 2014.
 	- S. Wendzel, J. Keller: [Systematic Engineering of Control Protocols for Covert Channels](https://link.springer.com/chapter/10.1007/978-3-642-32805-3_11), in Proc. Communications & Multimedia Security (CMS), Springer, 2012.
 	- C. Krätzer, J. Dittmann, A. Lang, T. Kühne: [WLAN steganography: a first practical review](https://doi.org/10.1145/1161366.1161371), in Proc. 8th Workshop on Multimedia and Security (MM&Sec), ACM, 2006.
 	- S. Schmidt, W. Mazurczyk, R. Kulesza, J. Keller, C. Caviglione: [Exploiting IP telephony with silence suppression for hidden data transfers](https://www.sciencedirect.com/science/article/pii/S0167404818305777), Computers & Security, Vol. 79, 2018.
