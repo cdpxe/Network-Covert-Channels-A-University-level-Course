@@ -189,7 +189,7 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 	- W. Mazurczyk, S. Wendzel, M. Chourib, J. Keller: [Countering Adaptive Network Covert Communication with Dynamic Wardens](https://doi.org/10.1016/j.future.2018.12.047), Future Generation Computer Systems (FGCS), Vol. 94, pp. 712-725, Elsevier, 2019.
 
 - **Exercise:**
-	- t.b.d., will be added in the next semester(s) using the *NeFiAS* tool I currently implement (not published, yet)
+	- Install the open source tool [NeFiAS](https://github.com/cdpxe/nefias/) and try to detect covert channels using the inter-packet times pattern with the script `kappa_IAT.sh` (traffic recordings are available within the tool's repository).
 
 ___
 
