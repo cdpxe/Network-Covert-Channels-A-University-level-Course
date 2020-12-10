@@ -107,7 +107,7 @@ In this chapter, you will learn how covert channels can be detected, eliminated,
 ___
 
 ### Week 3-a: Chapter 4 - Fundamental network information hiding techniques
-This chapter introduces basic methods for realizing network covert channels and their different types, in particular active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels.
+This chapter introduces basic methods for realizing network covert channels and their different types (active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels).
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=29s696QwHVM)
 
@@ -189,7 +189,7 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 	- W. Mazurczyk, S. Wendzel, M. Chourib, J. Keller: [Countering Adaptive Network Covert Communication with Dynamic Wardens](https://doi.org/10.1016/j.future.2018.12.047), Future Generation Computer Systems (FGCS), Vol. 94, pp. 712-725, Elsevier, 2019.
 
 - **Exercise:**
-	- Install the open source tool [NeFiAS](https://github.com/cdpxe/nefias/) and try to detect covert channels using the inter-packet times pattern with the script `kappa_IAT.sh` (traffic recordings are available within the tool's repository).
+	- Install the open-source tool [NeFiAS](https://github.com/cdpxe/nefias/) and try to detect covert channels using the inter-packet times pattern with the script `kappa_IAT.sh` (traffic recordings are available within the tool's repository).
 
 ___
 
