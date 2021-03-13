@@ -10,6 +10,8 @@ Please note that quite some content of this class is based on the book W. Mazurc
 
 [*YouTube Playlist for this Class*](https://www.youtube.com/watch?v=7YXXrbTah_s&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s)
 
+[*List of my own Network Steganography Tools*](https://github.com/cdpxe/NetworkCovertChannels)
+
 ## Outline
 
 Here is a schedule for this class. Please note that some weeks contain multiple videos:
