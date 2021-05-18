@@ -56,8 +56,9 @@ This chapter provides an overview of the whole class. Afterwards, fundamental te
 
 - **Exercise:**
 	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students.
-	- Is there a terminological inconsistency for the terms covert channel, network covert channel, steganography and network steganography given the introduced taxonomy? If yes: explain. (Chapter 2 of W. Mazurczyk et al., 2016)
-	- Can Information Hiding methods be applied to deduce cryptography keys from encryption/decryption tools? If yes: how?
+	- Was there any terminological inconsistency regarding the terms *network covert channel* and *network steganography* in the introduced taxonomy? (Chapter 2 of W. Mazurczyk et al., 2016)
+	- Different domains of steganography exist, including network steganography, digital media steganography, text steganography and cyber-physical systems steganography. Name typical cover objects for all four of them.
+	- Would it beneficial to combine different types of wardens?
 
 ___
 
@@ -123,7 +124,7 @@ This chapter introduces basic methods for realizing network covert channels and 
 
 - **Exercise:**
 	- In the paper of the reading assignment, you will find a steganographic method called *iStegSiri* for iOS published by Caviglione and Mazurczyk. Explain how it works! Also, [here](https://spectrum.ieee.org/tech-talk/telecom/security/malware-could-steal-data-from-iphones-using-siri) is a news article about iStegSiri.
-
+	- Can Information Hiding methods be applied to deduce cryptographic keys from encryption/decryption tools? If yes: how?
 ___
 
 ### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns
