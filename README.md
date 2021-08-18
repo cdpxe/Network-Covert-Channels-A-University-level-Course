@@ -23,7 +23,8 @@ Here is a schedule for this class. Please note that some weeks contain multiple 
 | Chapter 2 |   | X *M* |   |   |   |   |   |   |
 | Chapter 3 |   | X *M* |   |   |   |   |   |   |
 | Chapter 4 |   |   | X *N,M* |   |   |   |   |   |
-| Chapter 5 |   |   | X *N,M*|   |   |   |   |   |
+| Chapter 5a|   |   | X *N,M*|   |   |   |   |   |
+| Chapter 5b|   |   | X *N,M*|   |   |   |   |   |
 | Chapter 6 |   |   |   | X *M* |   |   |   |   |
 | Chapter 7a|   |   |   |   | X *N,M* |   |   |   |
 | Chapter 7b|   |   |   |   | X *M* |   |   |   |
