@@ -151,7 +151,7 @@ In this chapter, I introduce a revised version of the patterns taxonomy that is 
 
 - **Video:** [YouTube](https://youtu.be/Eh0EJbq1quk)
 
-- **Slides:** todo
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5b.pdf)
 
 - **Reading Assignment:**
 	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert: [A Revised Taxonomy of Steganography Embedding Patterns](https://doi.org/10.1145/3465481.3470069), in Proc. 16th International Conference on Availability, Reliability and Security (ARES 2021). Association for Computing Machinery, DOI: 10.1145/3465481.3470069S.
