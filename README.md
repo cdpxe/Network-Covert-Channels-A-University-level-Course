@@ -6,6 +6,8 @@ Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
 ## Introduction
 This is an open online course on network information hiding. The course contains video material and slides that I use in my undergraduate and graduate courses at Worms University of Applied Sciences, Germany. (I recorded the videos anyway, so why shouldn't I make them public.) I also used (a part of) these slides at other universities, summer schools etc. over the years. I updated these slides over the years and will continue to do so. Feel free to use my slides in your own class. I made sure that references are using links so that you and your students can get easier access to the publications. After remaining a closed offline class for several years, this class was initially taught online in summer term 2020. However, it remains online for the future and will receive updates from time to time.
 
+An *extended* version of this class (also including additional exercises) is taught at the FernUniversität in Hagen as course 01731 (*Network Steganography*).
+
 Please note that quite some content of this class is based on the book W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016. If you are an IEEE member, you should be able to download the book for free.
 
 [*YouTube Playlist for this Class*](https://www.youtube.com/watch?v=7YXXrbTah_s&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s)
@@ -14,28 +16,24 @@ Please note that quite some content of this class is based on the book W. Mazurc
 
 ## Outline
 
-Here is a schedule for this class. Please note that some weeks contain multiple videos:
+| Chapter / Relevance                                      | Self-studying | HSW NetSec (B.Sc.) | HSW MobSec (M.Sc.) | FernUni Hagen 01731 (Master)*|
+|----------------------------------------------------------|:-------------:|:----------------:|:---------------:|:----------------------------:|
+| Chapter 1 (Introduction)                                 |      X        |         X        |       X         |                X             |
+| Chapter 2 (Basic Local Covert Channels)                  |      X        |                  |       X         |                X (extended)  |
+| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |       X         |                X (extended)  |
+| Chapter 4 (Fundamental Network Covert Channels)          |      X        |                  |       X (partially extended)  |  X (extended)  |
+| Chapter 5a (Hiding Patterns I)                           |      X        |         X        |       X         |                X (extended)  |
+| Chapter 5b (Hiding Patterns II)                          |      X        |         X        |       X         |                X (extended)  |
+| Chapter 6 (Sophisticated Hiding Methods)                 |      X        |                  |       X (partially extended)  |  X (extended)  |
+| Chapter 7a (Fundamental Network-level Countermeasures)   |      X        |         X        |       X (partially extended)  |  X (extended)  |
+| Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |       X         |                X             |
+| Chapter 8 (Replication Studies)                          |      X        |                  |       X         |                X             |
+| Chapter 9 (How to Describe Hiding Methods?)              |      X        |                  |       X         |                X             |
+| Chapter 10a (IoT Steganography I)                        |      X        |                  |       X         |                X (revised)   |
+| Chapter 10b (IoT Steganography II)                       |      X        |                  |       X         |         X (revised/extended) |
+| Chapter 11 (Summary)                                     | optional      |   optional       | optional        |              optional        |
 
-
-| Week      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|-----------|---|---|---|---|---|---|---|---|
-| Chapter 1 | X *N,M* |   |   |   |   |   |   |   |
-| Chapter 2 |   | X *M* |   |   |   |   |   |   |
-| Chapter 3 |   | X *M* |   |   |   |   |   |   |
-| Chapter 4 |   |   | X *N,M* |   |   |   |   |   |
-| Chapter 5a|   |   | X *N,M*|   |   |   |   |   |
-| Chapter 5b|   |   | X *N,M*|   |   |   |   |   |
-| Chapter 6 |   |   |   | X *M* |   |   |   |   |
-| Chapter 7a|   |   |   |   | X *N,M* |   |   |   |
-| Chapter 7b|   |   |   |   | X *M* |   |   |   |
-| Chapter 8 |   |   |   |   |   | X *M* |   |   |
-| Chapter 9 |   |   |   |   |   | X |   |   |
-| Chapter 10a|   |   |   |   |   |   | X |   |
-| Chapter 10b|   |   |   |   |   |   | X |   |
-| Chapter 11|   |   |   |   |   |   |   | X |
-
-- *N*: relevant for *Network Security* class (B.Sc. level); scheduling in Moodle might differ and is correct
-- *M*: relevant for *Mobile Security* class (M.Sc. level); scheduling in Moodle might differ and is correct
+- Hagen uses a different (extended) slide set for course 01731 at FernUniversität (M.Sc. level) as the programm covers a whole semester there.
 
 ### Week 1: Chapter 1 - Introduction to steganography and covert channels
 This chapter provides an overview of the whole class. Afterwards, fundamental terminology, taxonomy and history of information hiding will be covered. The chapter also highlights some use-cases (legitimate and criminal ones) and tells you a bit about the CUING initiative.
