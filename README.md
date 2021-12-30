@@ -20,20 +20,20 @@ Please note that quite some content of this class is based on the book W. Mazurc
 |----------------------------------------------------------|:-------------:|:----------------:|:---------------:|:----------------------------:|
 | Chapter 1 (Introduction)                                 |      X        |         X        |       X         |                X             |
 | Chapter 2 (Basic Local Covert Channels)                  |      X        |                  |       X         |                X (extended)  |
-| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |       X         |                X (extended)  |
+| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |       X         |                X (extended + exercise 1) |
 | Chapter 4 (Fundamental Network Covert Channels)          |      X        |                  |       X (partially extended)  |  X (extended)  |
 | Chapter 5a (Hiding Patterns I)                           |      X        |         X        |       X         |                X (extended)  |
-| Chapter 5b (Hiding Patterns II)                          |      X        |         X        |       X         |                X (extended)  |
+| Chapter 5b (Hiding Patterns II)                          |      X        |         X        |       X         |                X (extended + exercise 2) |
 | Chapter 6 (Sophisticated Hiding Methods)                 |      X        |                  |       X (partially extended)  |  X (extended)  |
 | Chapter 7a (Fundamental Network-level Countermeasures)   |      X        |         X        |       X (partially extended)  |  X (extended)  |
-| Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |       X         |                X             |
+| Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |       X         |                X (+exercise 3) |
 | Chapter 8 (Replication Studies)                          |      X        |                  |       X         |                X             |
 | Chapter 9 (How to Describe Hiding Methods?)              |      X        |                  |       X         |                X             |
 | Chapter 10a (IoT Steganography I)                        |      X        |                  |       X         |                X (revised)   |
-| Chapter 10b (IoT Steganography II)                       |      X        |                  |       X         |         X (revised/extended) |
+| Chapter 10b (IoT Steganography II)                       |      X        |                  |       X         |         X (revised/extended + exercise 4) |
 | Chapter 11 (Summary)                                     | optional      |   optional       | optional        |              optional        |
 
-- Hagen uses a different (extended) slide set for course 01731 at FernUniversität (M.Sc. level) as the programm covers a whole semester there.
+- *Hagen uses a different (extended) slide set for course 01731 at FernUniversität (M.Sc. level) as the programm covers a whole semester there. Moreover, Hagen has a different set of exercises than the ones provided on Github.
 
 ### Week 1: Chapter 1 - Introduction to steganography and covert channels
 This chapter provides an overview of the whole class. Afterwards, fundamental terminology, taxonomy and history of information hiding will be covered. The chapter also highlights some use-cases (legitimate and criminal ones) and tells you a bit about the CUING initiative.
