@@ -24,15 +24,13 @@ Please note that quite some content of this class is based on the book W. Mazurc
 | Chapter 2 (Basic Local Covert Channels)                  |      X        |                  |       X         |                X   |
 | Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |      (X)        |                X + exercise 1 |
 | Chapter 4 (Fundamental Network Covert Channels)          |      X        |                  |       X         |                X   |
-| Chapter 5a (Hiding Patterns I)                           |      X        |         X        |       X         |                X   |
-| Chapter 5b (Hiding Patterns II)                          |      X        |         X        |       X         |                X + exercise 2 |
+| Chapter 5a (Hiding Patterns)                             |      X        |         X        |       X         |                X   |
 | Chapter 6 (Sophisticated Hiding Methods)                 |      X        |                  |      (X)        |                X   |
 | Chapter 7a (Fundamental Network-level Countermeasures)   |      X        |         X        |       X         |                X   |
 | Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |      (X)        |                X +exercise 3 |
 | Chapter 8 (Replication Studies)                          |      X        |                  |      (X)        |                X             |
 | Chapter 9 (How to Describe Hiding Methods?)              |      X        |                  |       X         |                X             |
-| Chapter 10a (IoT Steganography I)                        |      X        |                  |      (X)        |                X    |
-| Chapter 10b (IoT Steganography II)                       |      X        |                  |      (X)        |                X + exercise 4 |
+| Chapter 10 (IoT Steganography)                           |      X        |                  |      (X)        |                X    |
 | Chapter 11 (Summary)                                     | optional      |   optional       | optional        |              optional        |
 
 - *Course 01731 at FernUniversität (M.Sc. level) has a different set of exercises than the ones provided on Github.
@@ -129,7 +127,7 @@ This chapter introduces basic methods for realizing network covert channels and 
 	- Can Information Hiding methods be applied to deduce cryptographic keys from encryption/decryption tools? If yes: how?
 ___
 
-### Week 3-b: Chapter 5-a - Getting the big picture: hiding patterns
+### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns
 In this chapter, so-called *hiding patterns* are introduced. Patterns are a universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
