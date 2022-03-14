@@ -1,5 +1,7 @@
 # Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
+Version: 2.0.0
+
 ### Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
 
