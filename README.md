@@ -36,10 +36,10 @@ Please note that quite some content of this class is based on the book W. Mazurc
 - *Course 01731 at FernUniversität (M.Sc. level) has a different set of exercises than the ones provided on Github.
 
 
-### Week 1: Chapter 1 - Introduction to steganography and covert channels
+### Chapter 1 - Introduction to steganography and covert channels
 This chapter provides an overview of the whole class. Afterwards, fundamental terminology, taxonomy and history of information hiding will be covered. The chapter also highlights some use-cases (legitimate and criminal ones) and tells you a bit about the CUING initiative.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=7YXXrbTah_s)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=eDjlQbH_DTI&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=1)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch1.pdf)
 
@@ -63,10 +63,10 @@ This chapter provides an overview of the whole class. Afterwards, fundamental te
 ___
 
 
-### Week 2-a: Chapter 2 - Introduction to classic covert channels
+### Chapter 2 - Introduction to classic covert channels
 First, simple methods for local (system-internal) covert channels are discussed. Second, covert channels between Docker containers and for Android are shown.
 
-- **Video:** [YouTube](https://youtu.be/MBV-NFQLH34)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=iyEqschrN6g&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=2)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch2.pdf)
 
@@ -85,10 +85,10 @@ First, simple methods for local (system-internal) covert channels are discussed.
 
 ___
 
-### Week 2-b: Chapter 3 - Fundamental countermeasures (not network-specific)
+### Chapter 3 - Fundamental countermeasures (not network-specific)
 In this chapter, you will learn how covert channels can be detected, eliminated, and limited on the basis of exemplary countermeasures. These countermeasures can be applied at different states of a system's lifetime (design-phase to operation phase). In particular, I cover the Shared Resource Matrix (SRM) methodology, Covert Flow Trees (CFT), Fuzzy Time, and the Spurious Processes Approach.
 
-- **Video:** [YouTube](https://youtu.be/6cjsPzLscd8)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=F5rMlC-tlRw&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=3)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch3.pdf)
 
@@ -109,17 +109,16 @@ In this chapter, you will learn how covert channels can be detected, eliminated,
 
 ___
 
-### Week 3-a: Chapter 4 - Fundamental network information hiding techniques
+### Chapter 4 - Fundamental network information hiding techniques
 This chapter introduces basic methods for realizing network covert channels and their different types (active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels).
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=29s696QwHVM)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=NQxwOo-ugh8&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=4)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch4.pdf)
 
 - **Reading Assignment:**
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
-    - T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://www.researchgate.net/publication/358476184_SoK_A_Survey_Of_Indirect_Network-level_Covert_Channels). In: Proc. 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS’2022). ACM, DOI: 10.1145/3488932.3517418, in press.
-
+	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://www.researchgate.net/publication/358476184_SoK_A_Survey_Of_Indirect_Network-level_Covert_Channels). In: Proc. 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS’2022). ACM, DOI: 10.1145/3488932.3517418, 2022, in press.
 
 - **Network Covert Channel Tools:**
 	- [Source code of my network covert channel tools on GitHub](https://github.com/cdpxe/NetworkCovertChannels/) (phcct, pct, vstt, ...)
@@ -129,12 +128,11 @@ This chapter introduces basic methods for realizing network covert channels and 
 	- Can Information Hiding methods be applied to deduce cryptographic keys from encryption/decryption tools? If yes: how?
 ___
 
-### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns
+### Chapter 5 - Getting the big picture: hiding patterns
 In this chapter, so-called *hiding patterns* are introduced. Patterns are a universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
 The second part of this chapter introduces a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in August 2021 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
 
-- **Video 1:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
-- **Video 2:** [YouTube](https://youtu.be/Eh0EJbq1quk)
+- **Video 1:** [YouTube](https://www.youtube.com/watch?v=PABu1HVXHvE&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=5)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
 
@@ -142,9 +140,6 @@ The second part of this chapter introduces a revised version of the patterns tax
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
 	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, **Chapter 3**](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert: [A Revised Taxonomy of Steganography Embedding Patterns](https://doi.org/10.1145/3465481.3470069), in Proc. 16th International Conference on Availability, Reliability and Security (ARES 2021). Association for Computing Machinery, DOI: 10.1145/3465481.3470069S.
-
-- **Optional Papers to Read:**
-	- W. Mazurczyk, S. Wendzel, K. Cabaj: [Towards Deriving Insights into Data Hiding Methods Using Pattern-based Approach](https://doi.org/10.1145/3230833.3233261), in Proc. ARES, ACM, 2018.
 
 - **Exercise:**
 	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
@@ -154,10 +149,10 @@ The second part of this chapter introduces a revised version of the patterns tax
 
 ___
 
-### Week 4: Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns
+### Chapter 6 - Staying under the radar: sophisticated hiding methods and distributed hiding patterns
 This chapter covers distributed hiding methods, including pattern variation, pattern hopping, protocol switching (protocol channels, protocol hopping covert channels), dynamic overlay routing for covert channels, micro protocols (covert channel internal control protocols, including their optimization), reversible data hiding (RDH), and dead drops that exploit network caches.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=YicdOu10FmE)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=Ac-pJIGlzmg&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=6)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch6.pdf)
 
@@ -184,10 +179,10 @@ This chapter covers distributed hiding methods, including pattern variation, pat
 
 ___
 
-### Week 5: Chapter 7 - Selected network-level countermeasures
+### Chapter 7 - Selected network-level countermeasures
 Chapter 7 finally introduces methods to combat network covert channels. The chapter is separated into two parts. **Part A** covers selected basic methods, namely traffic normalization (preventing/limiting), three methods by Berk et al. and Cabuk et al. (detection of inter-packet times pattern), and finally, the so-called *countermeasure variation*. **Part B** introduces countermeasures that help limiting and detecting sophisticated network covert channels, namely the protocol switching covert channels and the NEL phase. These methods are the *protocol (switching covert) channel-aware active warden* (PCAW) and the *dynamic warden*.
 
-- **Video:** [part A, YouTube](https://www.youtube.com/watch?v=DW8eT5NtoxE), [part B, YouTube](https://www.youtube.com/watch?v=v3AeSPAmF8Y)
+- **Video:** [part A-1, YouTube](https://www.youtube.com/watch?v=DW8eT5NtoxE&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=7), [part A-2, YouTube](https://www.youtube.com/watch?v=57uVKD1X6-w&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=8) (extended content), [part B, YouTube](https://www.youtube.com/watch?v=v3AeSPAmF8Y&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=9)
 
 - **Slides:** [part A, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7a.pdf), [part B, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch7b.pdf)
 
@@ -204,10 +199,10 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 
 ___
 
-### Week 6-a: Chapter 8 - Replicating experiments for scientific advancement
+### Chapter 8 - Replicating experiments for scientific advancement
 First, I briefly discuss why we need replication studies and which obstacles prevent the conduction of these studies. Second, I show one study that we conducted ourselves.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=hs_nPTwQXXA)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=hs_nPTwQXXA&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=10)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch8.pdf)
 
@@ -222,10 +217,10 @@ First, I briefly discuss why we need replication studies and which obstacles pre
 
 ___
 
-### Week 6-b: Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
+### Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
 When a new hiding technique is found, how should it be described in a way that other authors can easily access it? How to ease replication studies? How to ease the process of finding out what still needs to be done? These questions can be answered with the *unified description method* for network information hiding techniques explained in this chapter. Moreover do I introduce the *creativity metric* that helps to decide about the novelty of a research contribution.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=11)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf)
 
@@ -240,10 +235,10 @@ When a new hiding technique is found, how should it be described in a way that o
 
 ___
 
-### Week 7: Chapter 10 - *My smart fridge does strange things …* a.k.a. steganography in the Internet of Things (IoT)
+### Chapter 10 - *My smart fridge does strange things …* a.k.a. steganography in the Internet of Things (IoT)
 In the Internet of Things (and Cyber-physical Systems, CPS), data can either be hidden within network communications (e.g. in IoT protocols) *or* in can be hidden the CPS *components* (e.g. unused registers or states of actuators). I will discuss these methods as well as scenarios in this conference talk below. However, please note that the PDF files contain an extended scenario. I plan to update the PDF slides in the coming years as there is still quite a lot to say about this chapter.
 
-- **Video:** [part A, YouTube](https://www.youtube.com/watch?v=P9XYV4mcPV0), [part B, YouTube](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
+- **Video:** [part A, YouTube](https://www.youtube.com/watch?v=P9XYV4mcPV0&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=12), [part B, YouTube](https://www.youtube.com/watch?v=Q7eAcBzojvo&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=13). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10.pdf)
 
@@ -258,10 +253,10 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 
 ___
 
-### Week 8: Chapter 11 - Summary and overall conclusion
+### Chapter 11 - Summary and overall conclusion
 This chapter summarizes what we have learned in the ten previous chapters. I also highlight open research problems that might support you in finding topics for a Master or even a PhD thesis.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=pXo3mdmR_yM)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=pXo3mdmR_yM&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=14)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch11.pdf)
 
