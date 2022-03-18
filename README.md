@@ -20,7 +20,7 @@ Please note that quite some content of this class is based on the book W. Mazurc
 
 ## Outline
 
-| Chapter / Relevance                                      | Self-studying | HSW NetSec (B.Sc.) | HSW MobSec (M.Sc.) | FernUni Hagen 01731 (Master)*|
+| Chapter / Relevance                                      | Self-studying | HSW NetSec (B.Sc.) | HSW MobSec/CPS Sec (M.Sc.) | FernUni Hagen 01731 (Master)*|
 |----------------------------------------------------------|:-------------:|:----------------:|:---------------:|:----------------------------:|
 | Chapter 1 (Introduction)                                 |      X        |         X        |       X         |                X             |
 | Chapter 2 (Basic Local Covert Channels)                  |      X        |                  |       X         |                X   |
