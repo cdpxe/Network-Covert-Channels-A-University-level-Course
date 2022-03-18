@@ -24,9 +24,9 @@ Please note that quite some content of this class is based on the book W. Mazurc
 |----------------------------------------------------------|:-------------:|:----------------:|:---------------:|:----------------------------:|
 | Chapter 1 (Introduction)                                 |      X        |         X        |       X         |                X             |
 | Chapter 2 (Basic Local Covert Channels)                  |      X        |                  |       X         |                X   |
-| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |      (X)        |                X + exercise 1 |
-| Chapter 4 (Fundamental Network Covert Channels)          |      X        |                  |       X         |                X   |
-| Chapter 5a (Hiding Patterns)                             |      X        |         X        |       X         |                X   |
+| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |                 |                X + exercise 1 |
+| Chapter 4 (Fundamental Network Covert Channels)          |      X        |         X        |       X         |                X   |
+| Chapter 5a (Hiding Patterns)                             |      X        |        (X)       |       X         |                X   |
 | Chapter 6 (Sophisticated Hiding Methods)                 |      X        |                  |      (X)        |                X   |
 | Chapter 7a (Fundamental Network-level Countermeasures)   |      X        |         X        |       X         |                X   |
 | Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |      (X)        |                X +exercise 3 |
