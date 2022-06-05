@@ -120,7 +120,7 @@ This chapter introduces basic methods for realizing network covert channels and 
 
 - **Reading Assignment:**
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
-	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://www.researchgate.net/publication/358476184_SoK_A_Survey_Of_Indirect_Network-level_Covert_Channels). In: Proc. 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS’2022). ACM, DOI: 10.1145/3488932.3517418, 2022, in press.
+	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://dl.acm.org/doi/10.1145/3488932.3517418), in: ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, ACM, 2022.
 
 - **Network Covert Channel Tools:**
 	- [Source code of my network covert channel tools on GitHub](https://github.com/cdpxe/NetworkCovertChannels/) (phcct, pct, vstt, ...)
@@ -142,7 +142,6 @@ The second part of this chapter introduces a revised version of the patterns tax
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
 	- W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks, **Chapter 3**](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016.
 	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert: [A Revised Taxonomy of Steganography Embedding Patterns](https://doi.org/10.1145/3465481.3470069), in Proc. 16th International Conference on Availability, Reliability and Security (ARES 2021). Association for Computing Machinery, DOI: 10.1145/3465481.3470069S.
-	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://dl.acm.org/doi/10.1145/3488932.3517418), in: ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, ACM, 2022.
 
 - **Exercise:**
 	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
