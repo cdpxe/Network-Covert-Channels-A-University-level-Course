@@ -1,6 +1,6 @@
 # Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
-Version: 2.0.3
+Version: 2.0.4
 
 ### Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
@@ -52,7 +52,7 @@ This chapter provides an overview of the whole class. Afterwards, fundamental te
 	- F. Petitcolas, R. Anderson, M. Kuhn: [Information Hiding – A Survey](https://ieeexplore.ieee.org/abstract/document/771065), Proc. IEEE, 87(7), 1999.
 	- B. Pfitzmann: [Information Hiding Terminology](https://doi.org/10.1007/3-540-61996-8_52), Proc. 1st Information Hiding Workshop, Springer, 1996.
 	- E. Zielinska, W. Mazurczyk, K. Szczypiorski: [Trends in Steganography](https://dl.acm.org/doi/10.1145/2566590.2566610), Comm. ACM, 2014.
-	-  K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
+	- K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
 	- L. Caviglione: [Steg in the Wild](https://github.com/lucacav/steg-in-the-wild) (a list of attacks and malware using steganography or information hiding), Github repository.
 	- L. Caviglione: [List of Stego Tools](https://github.com/lucacav/steg-tools) (a list of available stego tools)
 
