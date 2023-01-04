@@ -143,14 +143,12 @@ The second part of this chapter introduces a revised version of the patterns tax
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
 	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert, S. Zillien: [A Generic Taxonomy for Steganography Methods](https://doi.org/10.36227/techrxiv.20215373), pre-print, 2022.
 		- This paper shows the upcoming taxonomy for steganography.
-	- S. Wendzel, L. Caviglione, W. Mazurczyk: Avoiding Research Tribal Wars Using Taxonomies, IEEE Computer, 2023, in press.
 
 - **Exercise:**
 	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
 	- Why is it useful to differentiate between embedding and representation patterns?
 	- Explain the partial backwards-compatibility to the network-specific patterns taxonomy.
 	- Explain the difference between the *objects* and the *actions* mentioned in the generic taxonomy paper.
-	- Regarding the paper *Avoiding Research Tribal Wars Using Taxonomies*: what do the authors recommend regarding the development of taxonomies?
 
 ___
 
