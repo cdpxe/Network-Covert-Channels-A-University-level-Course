@@ -1,6 +1,6 @@
 # Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
-Version: 2.0.4
+Version: 2.0.5
 
 ### Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)
 Worms University of Applied Sciences, contact: wendzel (at) hs-worms (dot) de
@@ -116,11 +116,12 @@ This chapter introduces basic methods for realizing network covert channels and 
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=NQxwOo-ugh8&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=4)
 
-- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch4.pdf)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch4.pdf) (PDF version newer than video!)
 
 - **Reading Assignment:**
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
 	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://dl.acm.org/doi/10.1145/3488932.3517418), in: ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, ACM, 2022.
+	- S. Wendzel, T. Schmidbauer, S. Zillien, J. Keller: [Did You See That? A Covert Channel Exploiting Recent Legitimate Traffic](https://zenodo.org/record/7503339), pre-print, 2022.
 
 - **Network Covert Channel Tools:**
 	- [Source code of my network covert channel tools on GitHub](https://github.com/cdpxe/NetworkCovertChannels/) (phcct, pct, vstt, ...)
