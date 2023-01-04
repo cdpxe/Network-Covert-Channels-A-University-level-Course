@@ -268,6 +268,7 @@ This chapter summarizes what we have learned in the ten previous chapters. I als
 - **Exercise:**
 Congratulations, you made it through the whole class! **Now it is time for the final (big!) exercise!** Try to find a new network protocol for which there is absolutely no work available that analyzes covert channels in this protocol (use [Google Scholar](https://scholar.google.com) or any other paper search engine to find such works). Next, analyze the protocol regarding all known hiding patterns and describe all covert channels that you found using the unified description method. If you like, submit your paper to a conference (or: let me know and I can potentially link the paper at least here).
 
+___
 
 ### Changelog
 
