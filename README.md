@@ -5,6 +5,8 @@ Version: 2.0.5
 ### Steffen Wendzel, [website](https://www.wendzel.de)
 Professor at Worms University of Applied Sciences / Lecturer at University of Hagen / contact: wendzel (at) hs-worms (dot) de
 
+--- ***This course is currently under revision. A new version will be released in October!*** ---
+
 ## Introduction
 This is an open online course on network information hiding and network steganography. The course contains video material and slides of my class at the University of Hagen (*FernUniversität in Hagen*), Germany, and partially at some classes at *Hochschule Worms*.
 
