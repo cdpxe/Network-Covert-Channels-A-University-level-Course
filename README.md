@@ -274,7 +274,7 @@ ___
 
 ### Changelog
 
-- v. 2.0.5, 2022-Jan-04 (only slide updates; videos remain as is):
+- v. 2.0.5, 2023-Jan-04 (only slide updates; videos remain as is):
    - Updated Ch. 4: added "history covert channels" and "fully-passive covert channels", source: [https://zenodo.org/record/7503339](https://zenodo.org/record/7503339).
 
 - v. 2.0.4, 2022-Sep-16 (only slide updates; videos remain as is):
