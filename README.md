@@ -22,22 +22,22 @@ Please note that quite some content of this class is based on the book W. Mazurc
 
 ## Outline
 
-| Chapter / Relevance                                      | Self-studying | HSW NetSec (B.Sc.) | HSW MobSec/CPS Sec (M.Sc.) | FernUni Hagen 01731 (Master)*|
+| Chapter / Relevance                                      | Self-studying | HSW NetSec (B.Sc.) | HSW Netw. Inf. Hid. (M.Sc.)* | FernUni Hagen 01731 (Master)*|
 |----------------------------------------------------------|:-------------:|:----------------:|:---------------:|:----------------------------:|
 | Chapter 1 (Introduction)                                 |      X        |         X        |       X         |                X             |
 | Chapter 2 (Basic Local Covert Channels)                  |      X        |                  |       X         |                X   |
-| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |                 |                X + exercise 1 |
+| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |       X + exercise 1         |                X + exercise 1 |
 | Chapter 4 (Fundamental Network Covert Channels)          |      X        |         X        |       X         |                X   |
-| Chapter 5 (Hiding Patterns)                              |      X        |        (X)       |       X         |                X + exercise 2  |
-| Chapter 6 (Sophisticated Hiding Methods)                 |      X        |                  |      (X)        |                X   |
+| Chapter 5 (Hiding Patterns)                              |      X        |        (X)       |       X + exercise 2 |                X + exercise 2  |
+| Chapter 6 (Sophisticated Hiding Methods)                 |      X        |                  |       X  |                X   |
 | Chapter 7a (Fundamental Network-level Countermeasures)   |      X        |         X        |       X         |                X   |
-| Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |      (X)        |                X + exercise 3 |
-| Chapter 8 (Replication Studies)                          |      X        |                  |      (X)        |                X             |
+| Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |       X + exercise 3       |                X + exercise 3 |
+| Chapter 8 (Replication Studies)                          |      X        |                  |       X        |                X             |
 | Chapter 9 (How to Describe Hiding Methods?)              |      X        |                  |       X         |                X             |
-| Chapter 10 (IoT Steganography)                           |      X        |                  |      (X)        |                X + exercise 4   |
+| Chapter 10 (IoT Steganography)                           |      X        |                  |       X + exercise 4        |                X + exercise 4   |
 | Chapter 11 (Summary)                                     | optional      |   optional       | optional        |              optional        |
 
-- *Course 01731 at FernUniversität (M.Sc. level) has a different set of exercises than the ones provided on Github.
+- *Course 01731 at FernUniversität (M.Sc. level) and the M.Sc. class at HS Worms have a different set of exercises than the ones provided on Github. This might be unified in the future.
 
 
 ### Chapter 1 - Introduction to steganography and covert channels
@@ -273,6 +273,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.0.5 (no new version), 2023-Aug-14
+    - modified schedule for HSW M.Sc. class
 
 - v. 2.0.5, 2023-Jan-04 (only slide updates; videos remain as is):
    - Updated Ch. 4: added "history covert channels" and "fully-passive covert channels", source: [https://zenodo.org/record/7503339](https://zenodo.org/record/7503339).
