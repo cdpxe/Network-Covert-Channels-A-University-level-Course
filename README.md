@@ -1,6 +1,6 @@
 # Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
-Version: 2.0.5
+Version: 2.0.6
 
 ### Steffen Wendzel, [website](https://www.wendzel.de)
 Professor at Worms University of Applied Sciences / Lecturer at University of Hagen / contact: wendzel (at) hs-worms (dot) de
@@ -123,7 +123,7 @@ This chapter introduces basic methods for realizing network covert channels and 
 - **Reading Assignment:**
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
 	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://dl.acm.org/doi/10.1145/3488932.3517418), in: ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, ACM, 2022.
-	- S. Wendzel, T. Schmidbauer, S. Zillien, J. Keller: [Did You See That? A Covert Channel Exploiting Recent Legitimate Traffic](https://zenodo.org/record/7503339), pre-print, 2022.
+	- S. Wendzel, T. Schmidbauer, S. Zillien, J. Keller: [DYST (Did You See That?): An Amplified Covert Channel That Points To Previously Seen Data](https://arxiv.org/abs/2212.11850), pre-print, 2022.
 
 - **Network Covert Channel Tools:**
 	- [Source code of my network covert channel tools on GitHub](https://github.com/cdpxe/NetworkCovertChannels/) (phcct, pct, vstt, ...)
@@ -142,7 +142,7 @@ The second part of this chapter introduces a revised version of the patterns tax
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
 
 - **Reading Assignment:**
-	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015.
+	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015. ([pre-print on researchgate](https://www.researchgate.net/publication/263048788_Pattern-Based_Survey_and_Categorization_of_Network_Covert_Channel_Techniques))
 	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert, S. Zillien: [A Generic Taxonomy for Steganography Methods](https://doi.org/10.36227/techrxiv.20215373), pre-print, 2022.
 		- This paper shows the upcoming taxonomy for steganography.
 
@@ -273,6 +273,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.0.6, 2024-May-08
+    - tiny link updates
 
 - v. 2.0.5 (no new version), 2023-Aug-14
     - modified schedule for HSW M.Sc. class
