@@ -1,6 +1,6 @@
 # Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
-Version: 2.0.6
+Version: 2.0.7
 
 ### Steffen Wendzel, [website](https://www.wendzel.de)
 Professor at Worms University of Applied Sciences / Lecturer at University of Hagen / contact: wendzel (at) hs-worms (dot) de
@@ -273,6 +273,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.0.7, 2024-Jun-24
+    - tiny link update for DYST paper (TDSC)
 
 - v. 2.0.6, 2024-May-08
     - tiny link updates
