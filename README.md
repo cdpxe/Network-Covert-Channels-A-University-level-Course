@@ -1,6 +1,6 @@
 # Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
-Version: 2.0.8
+Version: 2.0.9
 
 ### Steffen Wendzel, [website](https://www.wendzel.de)
 Professor at Worms University of Applied Sciences / Lecturer at University of Hagen / contact: wendzel (at) hs-worms (dot) de
@@ -189,14 +189,11 @@ Chapter 7 finally introduces methods to combat network covert channels. The chap
 
 - **Reading Assignment:**
 	- W. Mazurczyk, S. Wendzel, S. Zander et al.: [Information Hiding in Communication Networks, **Chapter 8**](https://ieeexplore.ieee.org/book/7434879), Wiley-IEEE, 2016.
-	- S. Wendzel, F. Link, D. Eller, W. Mazurczyk: [Detection of Size Modulation Covert Channels Using Countermeasure Variation](http://www.jucs.org/jucs_25_11/detection_of_size_modulation), Journal of Universal Computer Science (J.UCS), Vol. 25(11), pp. 1396-1416, 2019.
 
 - **Optional Papers to Read:**
-	- S. Cabuk, C. E. Brodley, C. Shields: [IP covert channel detection](https://dl.acm.org/doi/abs/10.1145/1513601.1513604), Trans. Information and System Security (TISSEC) Vol. 12(4), ACM, 2009.
-	- W. Mazurczyk, S. Wendzel, M. Chourib, J. Keller: [Countering Adaptive Network Covert Communication with Dynamic Wardens](https://doi.org/10.1016/j.future.2018.12.047), Future Generation Computer Systems (FGCS), Vol. 94, pp. 712-725, Elsevier, 2019.
-
-- **Exercise:**
-	- Install the open-source tool [NeFiAS](https://github.com/cdpxe/nefias/) and try to detect covert channels using the inter-packet times pattern with the script `kappa_IAT.sh` (traffic recordings are available within the tool's repository).
+	- Fundamental heuristics for network timing channel detection: S. Cabuk, C. E. Brodley, C. Shields: [IP covert channel detection](https://dl.acm.org/doi/abs/10.1145/1513601.1513604), Trans. Information and System Security (TISSEC) Vol. 12(4), ACM, 2009.
+	- Details of the dynamic warden: W. Mazurczyk, S. Wendzel, M. Chourib, J. Keller: [Countering Adaptive Network Covert Communication with Dynamic Wardens](https://doi.org/10.1016/j.future.2018.12.047), Future Generation Computer Systems (FGCS), Vol. 94, pp. 712-725, Elsevier, 2019.
+	- How popular covert channel countermeasures can be circumvented: S. Zillien, S. Wendzel: [Weaknesses of Popular and Recent Covert Channel Detection Methods and a Remedy](https://doi.org/10.1109/TDSC.2023.3241451), IEEE Trans. Dep. Secur. Comp. (TDSC), Vol. 20(6), 2023.
 
 ___
 
@@ -271,9 +268,11 @@ ___
 ### Changelog
 
 
-- v. 2.0.8, 2024-Aug-21
+- v. 2.0.9, 2024-Aug-21
     - added reference to Strachanski et al. in chapter 1
     - updated reference to DYST paper in chapter 4 (replaced pre-print with official TDSC paper)
+    - remove nefias (out of date, not updated anymore)
+    - update publications list for Ch. 8.
 
 - v. 2.0.7, 2024-Jun-24
     - tiny link update for DYST paper (TDSC)
