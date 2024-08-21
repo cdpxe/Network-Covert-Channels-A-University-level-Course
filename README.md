@@ -1,6 +1,6 @@
 # Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
 
-Version: 2.0.7
+Version: 2.0.8
 
 ### Steffen Wendzel, [website](https://www.wendzel.de)
 Professor at Worms University of Applied Sciences / Lecturer at University of Hagen / contact: wendzel (at) hs-worms (dot) de
@@ -53,10 +53,8 @@ This chapter provides an overview of the whole class. Afterwards, fundamental te
 - **Optional Papers to Read:**
 	- F. Petitcolas, R. Anderson, M. Kuhn: [Information Hiding – A Survey](https://ieeexplore.ieee.org/abstract/document/771065), Proc. IEEE, 87(7), 1999.
 	- B. Pfitzmann: [Information Hiding Terminology](https://doi.org/10.1007/3-540-61996-8_52), Proc. 1st Information Hiding Workshop, Springer, 1996.
-	- E. Zielinska, W. Mazurczyk, K. Szczypiorski: [Trends in Steganography](https://dl.acm.org/doi/10.1145/2566590.2566610), Comm. ACM, 2014.
-	- K. Cabaj, L. Caviglione, W. Mazurczyk, S. Wendzel, A. Woodward, S. Zander: [The New Threats of Information Hiding: the Road Ahead](https://ieeexplore.ieee.org/document/8378979/), IT Professional, IEEE, 2018.
 	- L. Caviglione: [Steg in the Wild](https://github.com/lucacav/steg-in-the-wild) (a list of attacks and malware using steganography or information hiding), Github repository.
-	- L. Caviglione: [List of Stego Tools](https://github.com/lucacav/steg-tools) (a list of available stego tools)
+	- F. Strachanski et al.: A Comprehensive Pattern-based Overview of Stegomalware. In: Proc. 19th International Conference on Availability, Reliability and Security (ARES 2024). ACM, DOI: [https://doi.org/10.1145/3664476.3670886](https://doi.org/10.1145/3664476.3670886), 2024.
 
 - **Exercise:**
 	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students.
@@ -273,6 +271,11 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+
+- v. 2.0.8, 2024-Aug-21
+    - added reference to Strachanski et al. in chapter 1
+    - updated reference to DYST paper in chapter 4 (replaced pre-print with official TDSC paper)
 
 - v. 2.0.7, 2024-Jun-24
     - tiny link update for DYST paper (TDSC)
