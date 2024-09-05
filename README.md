@@ -1,9 +1,13 @@
-# Network Information Hiding and Network Steganography 101: Terminology, Methodology of Network Steganography / Network Covert Channels
+# Network Steganography and Network Information Hiding
 
-Version: 2.0.9
+Version: 2.0.10
 
-### Steffen Wendzel, [website](https://www.wendzel.de)
-Professor at Worms University of Applied Sciences / Lecturer at University of Hagen / contact: wendzel (at) hs-worms (dot) de
+## Author
+Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)
+
+## How to Cite this Class?
+
+Steffen Wendzel: *Network Steganography and Network Information Hiding* (online class), available online: [https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/), 2024.
 
 ## Introduction
 This is an open online course on network information hiding and network steganography. The course contains video material and slides of my class at the University of Hagen (*FernUniversität in Hagen*), Germany, and partially at some classes at *Hochschule Worms*.
@@ -267,6 +271,8 @@ ___
 
 ### Changelog
 
+- v. 2.0.10, 2024-Sep-05
+    - added citation info and adjusted title in README.md to title in the slides
 
 - v. 2.0.9, 2024-Aug-21
     - added reference to Strachanski et al. in chapter 1
