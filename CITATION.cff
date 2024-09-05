@@ -4,8 +4,8 @@ authors:
 - family-names: "Wendzel"
   given-names: "Steffen"
   orcid: "https://orcid.org/0000-0002-1913-5912"
-title: "Network Information Hiding and Network Steganography 101"
-version: 2.0.4
+title: "Network Steganography and Network Information Hiding"
+version: 2.0.10
 date-released: 2020-12-01
 url: "https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course"
 preferred-citation:
@@ -14,6 +14,6 @@ preferred-citation:
   - family-names: "Wendzel"
     given-names: "Steffen"
     orcid: "https://orcid.org/0000-0002-1913-5912"
-  title: "Network Information Hiding and Network Steganography 101"
+  title: "Network Steganography and Network Information Hiding"
   url: "https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course"
-  year: 2022
+  year: 2024
