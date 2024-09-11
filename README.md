@@ -56,7 +56,7 @@ This chapter provides an overview of the whole class. Afterwards, fundamental te
 	- F. Petitcolas, R. Anderson, M. Kuhn: [Information Hiding – A Survey](https://ieeexplore.ieee.org/abstract/document/771065), Proc. IEEE, 87(7), 1999.
 	- B. Pfitzmann: [Information Hiding Terminology](https://doi.org/10.1007/3-540-61996-8_52), Proc. 1st Information Hiding Workshop, Springer, 1996.
 	- L. Caviglione: [Steg in the Wild](https://github.com/lucacav/steg-in-the-wild) (a list of attacks and malware using steganography or information hiding), Github repository.
-	- F. Strachanski et al.: A Comprehensive Pattern-based Overview of Stegomalware. In: Proc. 19th International Conference on Availability, Reliability and Security (ARES 2024). ACM, DOI: [https://doi.org/10.1145/3664476.3670886](https://doi.org/10.1145/3664476.3670886), 2024.
+	- F. Strachanski et al.: [A Comprehensive Pattern-based Overview of Stegomalware](https://doi.org/10.1145/3664476.3670886). In: Proc. 19th International Conference on Availability, Reliability and Security (ARES 2024). ACM, DOI: [https://doi.org/10.1145/3664476.3670886](https://doi.org/10.1145/3664476.3670886), 2024.
 
 - **Exercise:**
 	- Explain one historic method of steganography that was not explained during the lecture in a short talk in front of the other students.
