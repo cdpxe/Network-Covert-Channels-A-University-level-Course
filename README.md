@@ -1,45 +1,23 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.0.10
+Version: 2.0.11
 
 ## Author
-Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)
+Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
+([Institute of Information Resource Management](https://www.uni-ulm.de/in/omi/), University of Ulm Germany / FernUniversität in Hagen, Germany)
 
 ## How to Cite this Class?
 
 Steffen Wendzel: *Network Steganography and Network Information Hiding* (online class), available online: [https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/), 2024.
 
 ## Introduction
-This is an open online course on network information hiding and network steganography. The course contains video material and slides of my class at the University of Hagen (*FernUniversität in Hagen*), Germany, and partially at some classes at *Hochschule Worms*.
-
-In Hagen, this material belongs to course 01731 (*Network Steganography*), which forms a module together with course 01730 (*Introduction to Information Hiding*).
-
-I also used (a part of) these slides at other universities, summer schools etc. over the years. I updated the content over the years and will continue to do so. I made sure that references are using links so that you can get easier access to the particular publications.
+This is an open online course on network information hiding and network steganography. The course contains video material and slides of a class that I teach at different universities. I updated the content over the years and will continue to do so.
 
 Please note that quite some content of this class is based on the book W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski: [Information Hiding in Communication Networks](https://ieeexplore.ieee.org/book/7434879), WILEY-IEEE, 2016. If you are an IEEE member, you should be able to download the book for free.
 
 [*YouTube Playlist for this Class*](https://www.youtube.com/watch?v=7YXXrbTah_s&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s)
 
 [*List of my own Network Steganography Tools*](https://github.com/cdpxe/NetworkCovertChannels)
-
-## Outline
-
-| Chapter / Relevance                                      | Self-studying | HSW NetSec (B.Sc.) | HSW Netw. Inf. Hid. (M.Sc.)* | FernUni Hagen 01731 (Master)*|
-|----------------------------------------------------------|:-------------:|:----------------:|:---------------:|:----------------------------:|
-| Chapter 1 (Introduction)                                 |      X        |         X        |       X         |                X             |
-| Chapter 2 (Basic Local Covert Channels)                  |      X        |                  |       X         |                X   |
-| Chapter 3 (Fundamental Countermeasures)                  |      X        |                  |       X + exercise 1         |                X + exercise 1 |
-| Chapter 4 (Fundamental Network Covert Channels)          |      X        |         X        |       X         |                X   |
-| Chapter 5 (Hiding Patterns)                              |      X        |        (X)       |       X + exercise 2 |                X + exercise 2  |
-| Chapter 6 (Sophisticated Hiding Methods)                 |      X        |                  |       X  |                X   |
-| Chapter 7a (Fundamental Network-level Countermeasures)   |      X        |         X        |       X         |                X   |
-| Chapter 7b (Countermeasures for Sophisticated CCs)       |      X        |                  |       X + exercise 3       |                X + exercise 3 |
-| Chapter 8 (Replication Studies)                          |      X        |                  |       X        |                X             |
-| Chapter 9 (How to Describe Hiding Methods?)              |      X        |                  |       X         |                X             |
-| Chapter 10 (IoT Steganography)                           |      X        |                  |       X + exercise 4        |                X + exercise 4   |
-| Chapter 11 (Summary)                                     | optional      |   optional       | optional        |              optional        |
-
-- *Course 01731 at FernUniversität (M.Sc. level) and the M.Sc. class at HS Worms have a different set of exercises than the ones provided on Github. This might be unified in the future.
 
 
 ### Chapter 1 - Introduction to steganography and covert channels
@@ -270,6 +248,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.0.11, 2024-Oct-15
+    - editorial changes in the README.md, replacing HS Worms w/ Uni Ulm
 
 - v. 2.0.10, 2024-Sep-05
     - added citation info and adjusted title in README.md to title in the slides
