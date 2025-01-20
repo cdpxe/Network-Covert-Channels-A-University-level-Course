@@ -101,7 +101,7 @@ This chapter introduces basic methods for realizing network covert channels and 
 - **Reading Assignment:**
 	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
 	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://dl.acm.org/doi/10.1145/3488932.3517418), in: ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, ACM, 2022.
-	- S. Wendzel, T. Schmidbauer, S. Zillien, J. Keller: [DYST (Did You See That?): An Amplified Covert Channel That Points To Previously Seen Data](https://doi.org/10.1109/TDSC.2024.3410679), IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
+	- S. Wendzel, T. Schmidbauer, S. Zillien, J. Keller: [DYST (Did You See That?): An Amplified Covert Channel That Points To Previously Seen Data](https://doi.org/10.1109/TDSC.2024.3410679), IEEE Transactions on Dependable and Secure Computing (TDSC), Vol. 22(1), 2025.
 
 - **Network Covert Channel Tools:**
 	- [Source code of my network covert channel tools on GitHub](https://github.com/cdpxe/NetworkCovertChannels/) (phcct, pct, vstt, ...)
@@ -248,6 +248,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.0.11-b, 2025-Jan-20
+    - added vol.+no. for TDSC paper
 
 - v. 2.0.11, 2024-Oct-15
     - editorial changes in the README.md, replacing HS Worms w/ Uni Ulm
