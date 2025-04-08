@@ -1,6 +1,6 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.0.11
+Version: 2.0.12
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -8,7 +8,7 @@ Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
 
 ## How to Cite this Class?
 
-Steffen Wendzel: *Network Steganography and Network Information Hiding* (online class), available online: [https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/), 2024.
+Steffen Wendzel: *Network Steganography and Network Information Hiding* (online class), available online: [https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/), 2025.
 
 ## Introduction
 This is an open online course on network information hiding and network steganography. The course contains video material and slides of a class that I teach at different universities. I updated the content over the years and will continue to do so.
@@ -88,7 +88,6 @@ In this chapter, you will learn how covert channels can be detected, eliminated,
 	- How could you create a policy-breaking covert channel during your exam in order to secretly exchange answers to exam questions?
 		- Link this scenario to the Prisoner’s Problem.
 
-
 ___
 
 ### Chapter 4 - Fundamental network information hiding techniques
@@ -113,16 +112,16 @@ ___
 
 ### Chapter 5 - Getting the big picture: hiding patterns
 In this chapter, so-called *hiding patterns* are introduced. Patterns are a universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
-The second part of this chapter introduces a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in August 2021 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
+The second part of this chapter introduces a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in 2025 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
 
 - **Video 1:** [YouTube](https://www.youtube.com/watch?v=PABu1HVXHvE&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=5)
 
-- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf) (will soon be replaced with the 2025-taxonomy slides)
 
 - **Reading Assignment:**
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015. ([pre-print on researchgate](https://www.researchgate.net/publication/263048788_Pattern-Based_Survey_and_Categorization_of_Network_Covert_Channel_Techniques))
-	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert, S. Zillien: [A Generic Taxonomy for Steganography Methods](https://doi.org/10.36227/techrxiv.20215373), pre-print, 2022.
-		- This paper shows the upcoming taxonomy for steganography.
+	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert, S. Zillien: [A Generic Taxonomy for Steganography Methods](https://doi.org/10.1145/3729165), ACM Computing Survey (CSUR), 2025. ([pre-print](https://www.techrxiv.org/doi/full/10.36227/techrxiv.20215373.v2))
+		- This paper is the 2025-revision of the patterns taxonomy.
 
 - **Exercise:**
 	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
@@ -248,6 +247,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.0.12, 2025-Apr-08
+    - replaced pre-print of generic taxonomy paper with the Comp. Surv. DOI
 
 - v. 2.0.11-b, 2025-Jan-20
     - added vol.+no. for TDSC paper
