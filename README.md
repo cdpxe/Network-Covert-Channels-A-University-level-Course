@@ -1,6 +1,6 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.0.12
+Version: 2.1.0
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -115,8 +115,10 @@ In this chapter, so-called *hiding patterns* are introduced. Patterns are a univ
 The second part of this chapter introduces a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in 2025 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
 
 - **Video 1:** [YouTube](https://www.youtube.com/watch?v=PABu1HVXHvE&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=5)
+- **Video 2:** t.b.d.
 
-- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf) (will soon be replaced with the 2025-taxonomy slides)
+- **Slides (network-specific taxonomy):** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
+- **Slides (generic taxonomy):** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5_new_taxonomy_2025.pdf)
 
 - **Reading Assignment:**
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015. ([pre-print on researchgate](https://www.researchgate.net/publication/263048788_Pattern-Based_Survey_and_Categorization_of_Network_Covert_Channel_Techniques))
@@ -247,6 +249,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.0, 2025-Apr-17
+    - added content for the 2025 generic steganography taxonomy
 
 - v. 2.0.12, 2025-Apr-08
     - replaced pre-print of generic taxonomy paper with the Comp. Surv. DOI
