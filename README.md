@@ -122,8 +122,9 @@ The second part of this chapter introduces a revised version of the patterns tax
 
 - **Reading Assignment:**
 	- S. Wendzel, S. Zander, B. Fechner, C. Herdin: [Pattern-based survey and categorization of network covert channel techniques](https://doi.org/10.1145/2684195), ACM Computing Survey (CSUR), Vol. 47(3), ACM, 2015. ([pre-print on researchgate](https://www.researchgate.net/publication/263048788_Pattern-Based_Survey_and_Categorization_of_Network_Covert_Channel_Techniques))
-	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert, S. Zillien: [A Generic Taxonomy for Steganography Methods](https://doi.org/10.1145/3729165), ACM Computing Survey (CSUR), 2025. ([pre-print](https://www.techrxiv.org/doi/full/10.36227/techrxiv.20215373.v2))
+	- S. Wendzel, L. Caviglione, W. Mazurczyk, A. Mileva, J. Dittmann, C. Krätzer, K. Lamshöft, C. Vielhauer, L. Hartmann, J. Keller, T. Neubert, S. Zillien: [A Generic Taxonomy for Steganography Methods](https://doi.org/10.1145/3729165), ACM Computing Survey (CSUR), 2025.
 		- This paper is the 2025-revision of the patterns taxonomy.
+		- Electronic supplement to that paper: [supplement PDF](https://dl.acm.org/doi/suppl/10.1145/3729165/suppl_file/csur-2022-0464-File002.pdf)
 
 - **Exercise:**
 	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
