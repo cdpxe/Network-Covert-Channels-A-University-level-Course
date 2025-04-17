@@ -6,7 +6,7 @@ authors:
   orcid: "https://orcid.org/0000-0002-1913-5912"
 title: "Network Steganography and Network Information Hiding"
 version: 2.0.10
-date-released: 2020-12-01
+date-released: 2025-04-17
 url: "https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course"
 preferred-citation:
   type: report
@@ -16,4 +16,4 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0002-1913-5912"
   title: "Network Steganography and Network Information Hiding"
   url: "https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course"
-  year: 2024
+  year: 2025
