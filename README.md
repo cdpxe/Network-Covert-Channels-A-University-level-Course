@@ -115,7 +115,7 @@ In this chapter, so-called *hiding patterns* are introduced. Patterns are a univ
 The second part of this chapter introduces a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in 2025 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
 
 - **Video 1:** [YouTube](https://www.youtube.com/watch?v=PABu1HVXHvE&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=5)
-- **Video 2:** t.b.d.
+- **Video 2:** [YouTube](https://www.youtube.com/watch?v=7MiMI5eUjMw)
 
 - **Slides (network-specific taxonomy):** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
 - **Slides (generic taxonomy):** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5_new_taxonomy_2025.pdf)
