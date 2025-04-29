@@ -1,6 +1,6 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.1.0
+Version: 2.1.1
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -114,8 +114,8 @@ ___
 In this chapter, so-called *hiding patterns* are introduced. Patterns are a universal tool that is popular in software engineering and other disciplines, even outside of informatics. Hiding patterns are an easy way to describe and understand how data can be hidden using network covert channels. Instead of studying hundreds of separate hiding techniques, one can simply grasp all their core ideas using hiding patterns.
 The second part of this chapter introduces a revised version of the patterns taxonomy that is not specific to the network context. Instead, it can be applied to *all* domains of steganography. This revised model was introduced in 2025 and contains certain additional features, such as the distinction between *embedding* and *representation* patterns.
 
-- **Video 1:** [YouTube](https://www.youtube.com/watch?v=PABu1HVXHvE&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=5)
-- **Video 2:** [YouTube](https://www.youtube.com/watch?v=7MiMI5eUjMw)
+- **Video 1:** [YouTube](https://www.youtube.com/watch?v=PABu1HVXHvE&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=5) (OLD version)
+- **Video 2:** [YouTube](https://www.youtube.com/watch?v=7MiMI5eUjMw) (NEW version)
 
 - **Slides (network-specific taxonomy):** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5.pdf)
 - **Slides (generic taxonomy):** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch5_new_taxonomy_2025.pdf)
@@ -130,7 +130,6 @@ The second part of this chapter introduces a revised version of the patterns tax
 	- Get an overview of the [CCEAP tool and its protocol](https://ih-patterns.blogspot.com/p/cceap.html). Work through the provided sample [exercises](https://github.com/cdpxe/CCEAP/tree/master/sample_exercises) and try to understand the provided solutions.
 	- Why is it useful to differentiate between embedding and representation patterns?
 	- Explain the partial backwards-compatibility to the network-specific patterns taxonomy.
-	- Explain the difference between the *objects* and the *actions* mentioned in the generic taxonomy paper.
 
 ___
 
@@ -208,6 +207,7 @@ When a new hiding technique is found, how should it be described in a way that o
 
 - **Reading Assignment:**
 	- S. Wendzel, W. Mazurczyk, S. Zander: [Unified Description Method for Network Information Hiding Methods](http://dx.doi.org/10.3217/jucs-022-11-1456), Journal of Universal Computer Science (J.UCS), Vol. 22(11), 2016.
+   	- **Revised version** of the unified description method that has been adjusted to the 2025-taxonomy: [download (PDF, see Sect. A.6)](https://dl.acm.org/doi/suppl/10.1145/3729165/suppl_file/csur-2022-0464-File002.pdf) (electronic supplement of [this](https://dl.acm.org/doi/10.1145/3729165) paper) 
 
 - **Exercise:**
 	- Read the above-mentioned paper on the unified description method and answer the following questions:
@@ -250,6 +250,10 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.1, 2025-Apr-29
+    - removed outdated exercises
+    - revised UDM section
 
 - v. 2.1.0, 2025-Apr-17
     - added content for the 2025 generic steganography taxonomy
