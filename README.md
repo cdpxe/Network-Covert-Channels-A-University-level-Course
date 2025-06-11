@@ -1,6 +1,6 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.1.1
+Version: 2.1.2
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -201,12 +201,12 @@ ___
 ### Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
 When a new hiding technique is found, how should it be described in a way that other authors can easily access it? How to ease replication studies? How to ease the process of finding out what still needs to be done? These questions can be answered with the *unified description method* for network information hiding techniques explained in this chapter. Moreover do I introduce the *creativity metric* that helps to decide about the novelty of a research contribution.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=11)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=11) (video does not cover the 2025 reading assignments)
 
-- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf) (slides do not cover the 2025 reading assignments)
 
 - **Reading Assignment:**
-	- S. Wendzel, W. Mazurczyk, S. Zander: [Unified Description Method for Network Information Hiding Methods](http://dx.doi.org/10.3217/jucs-022-11-1456), Journal of Universal Computer Science (J.UCS), Vol. 22(11), 2016.
+	- S. Wendzel, C. Krätzer, J. Dittmann, L. Caviglione, A. Mileva, T. Schmidbauer, C. Vielhauer, S. Zander: *[Describing Steganography Hiding Methods by Combining Pre-Existing Methodology](https://arxiv.org/abs/2506.01700)*. In: Proc. 20th International Conference on Availability, Reliability and Security (ARES 2025 Workshops (CUING Workshop)).
    	- **Revised version** of the unified description method that has been adjusted to the 2025-taxonomy: [download (PDF, see Sect. A.6)](https://dl.acm.org/doi/suppl/10.1145/3729165/suppl_file/csur-2022-0464-File002.pdf) (electronic supplement of [this](https://dl.acm.org/doi/10.1145/3729165) paper) 
 
 - **Exercise:**
@@ -250,6 +250,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.2, 2025-Jun-11
+    - point to new tutorial paper on the description of hiding methods
 
 - v. 2.1.1, 2025-Apr-29
     - removed outdated exercises
