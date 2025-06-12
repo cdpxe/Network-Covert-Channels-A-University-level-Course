@@ -1,6 +1,6 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.1.2
+Version: 2.1.3
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -198,22 +198,25 @@ First, I briefly discuss why we need replication studies and which obstacles pre
 
 ___
 
-### Chapter 9 - *OMG! I found a new hiding method. How do I become famous?!1!* a.k.a. How to describe a new hiding method in a paper?
-When a new hiding technique is found, how should it be described in a way that other authors can easily access it? How to ease replication studies? How to ease the process of finding out what still needs to be done? These questions can be answered with the *unified description method* for network information hiding techniques explained in this chapter. Moreover do I introduce the *creativity metric* that helps to decide about the novelty of a research contribution.
+### Chapter 9 - Describing Hiding Methods (+ Some Notes on Experimental Setups)
+When a new hiding technique is found, how should it be described in a way that other authors can easily access it? How to ease replication studies? How to ease the process of finding out what still needs to be done? These questions can be answered with the *unified description method* for information hiding techniques explained in this chapter. Moreover do I introduce the *creativity* approach that helps to decide about the novelty of a research contribution. Finally, I cover a traditionall paper by V. Paxson on Measurement Studies as these are important in covert channel reseach (and Internet censorship (circumvention) research). *This chapter is work in progress and will (hopefully) feature more content on experimental setups in the future.*
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=11) (video does not cover the 2025 reading assignments)
+- **Video:** [YouTube](https://www.youtube.com/watch?v=viieBAdAQh0&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=11) (old version)
 
-- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf) (slides do not cover the 2025 reading assignments)
+- **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch9.pdf) (new version of Jun-2025, taken from my class on Internet censorship)
 
 - **Reading Assignment:**
 	- S. Wendzel, C. Krätzer, J. Dittmann, L. Caviglione, A. Mileva, T. Schmidbauer, C. Vielhauer, S. Zander: *[Describing Steganography Hiding Methods by Combining Pre-Existing Methodology](https://arxiv.org/abs/2506.01700)*. In: Proc. 20th International Conference on Availability, Reliability and Security (ARES 2025 Workshops (CUING Workshop)).
-   	- **Revised version** of the unified description method that has been adjusted to the 2025-taxonomy: [download (PDF, see Sect. A.6)](https://dl.acm.org/doi/suppl/10.1145/3729165/suppl_file/csur-2022-0464-File002.pdf) (electronic supplement of [this](https://dl.acm.org/doi/10.1145/3729165) paper) 
+   	- **Revised version** of the unified description method that has been adjusted to the 2025-taxonomy: [download (PDF, see Sect. A.6)](https://dl.acm.org/doi/suppl/10.1145/3729165/suppl_file/csur-2022-0464-File002.pdf) (electronic supplement of [this](https://dl.acm.org/doi/10.1145/3729165) paper)
+   	- V. Paxson: *[Strategies for Sound Internet Measurement](https://dl.acm.org/doi/10.1145/1028788.1028824)*, Proc. IMC, 2004.
+
 
 - **Exercise:**
-	- Read the above-mentioned paper on the unified description method and answer the following questions:
+	- Why is it important to consider Paxson's strategies when conducting network-based measurements? How do his observations apply to network covert channel research? How do they apply to Internet censorship (circumvention) research?
+ 	- Read the above-mentioned paper on the unified description method and answer the following questions:
 		- What is the difference between the two attributes *required properties of the carrier* and *covert channel properties*?
 		- Why is the attribute on *control protocols* not mandatory in the unified description method?
-		- How does the *creativity metric* work together with the unified description method?
+		- How does the *creativity metric* work jointly with the unified description method?
 
 ___
 
@@ -250,6 +253,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.3, 2025-Jun-12
+    - replace Ch 9 PDF with new version from my class on Internet censorship
 
 - v. 2.1.2, 2025-Jun-11
     - point to new tutorial paper on the description of hiding methods
