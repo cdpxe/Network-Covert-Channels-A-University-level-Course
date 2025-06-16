@@ -4,7 +4,7 @@ Version: 2.1.3
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
-([Institute of Information Resource Management](https://www.uni-ulm.de/in/omi/), University of Ulm Germany / FernUniversität in Hagen, Germany)
+([Institute of Information Resource Management](https://www.uni-ulm.de/in/omi/), University of Ulm, Germany)
 
 ## How to Cite this Class?
 
