@@ -1,6 +1,6 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.1.3
+Version: 2.1.4
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -91,14 +91,13 @@ In this chapter, you will learn how covert channels can be detected, eliminated,
 ___
 
 ### Chapter 4 - Fundamental network information hiding techniques
-This chapter introduces basic methods for realizing network covert channels and their different types (active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels).
+This chapter introduces basic methods for realizing network covert channels and their different types (active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels). Further, covert channel amplification is explained.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=NQxwOo-ugh8&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=4)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch4.pdf) (PDF version newer than video!)
 
 - **Reading Assignment:**
-	- L. Caviglione, W. Mazurczyk: [Understanding Information Hiding in iOS](https://ieeexplore.ieee.org/abstract/document/7030266), IEEE Computer, Vol. 48(1), 2015.
 	- T. Schmidbauer, S. Wendzel: [SoK: A Survey Of Indirect Network-level Covert Channels](https://dl.acm.org/doi/10.1145/3488932.3517418), in: ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, ACM, 2022.
 	- S. Wendzel, T. Schmidbauer, S. Zillien, J. Keller: [DYST (Did You See That?): An Amplified Covert Channel That Points To Previously Seen Data](https://doi.org/10.1109/TDSC.2024.3410679), IEEE Transactions on Dependable and Secure Computing (TDSC), Vol. 22(1), 2025.
 
@@ -253,6 +252,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.4, 2025-Dec-15
+	- Revised Ch 4, added covert channel amplification
 
 - v. 2.1.3, 2025-Jun-12
     - replace Ch 9 PDF with new version from my class on Internet censorship
