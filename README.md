@@ -91,7 +91,7 @@ In this chapter, you will learn how covert channels can be detected, eliminated,
 ___
 
 ### Chapter 4 - Fundamental network information hiding techniques
-This chapter introduces basic methods for realizing network covert channels and their different types (active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels). Further, covert channel amplification is explained.
+This chapter introduces basic methods for realizing network covert channels and their different types (active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels). Further, [covert channel amplification](https://www.wendzel.de/misc/2026/02/28/history-cc.html) is explained.
 
 - **Video:** [YouTube](https://www.youtube.com/watch?v=NQxwOo-ugh8&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=4)
 
