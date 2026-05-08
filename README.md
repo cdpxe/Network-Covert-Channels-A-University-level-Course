@@ -8,7 +8,7 @@ Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
 
 ## How to Cite this Class?
 
-Steffen Wendzel: *Network Steganography and Network Information Hiding* (online class), available online: [https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/), 2025.
+Steffen Wendzel: *Network Steganography and Network Information Hiding*, available online: [https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/), 2025.
 
 ## Introduction
 This is an open online course on network information hiding and network steganography. The course contains video material and slides of a class that I teach at different universities. I updated the content over the years and will continue to do so.
