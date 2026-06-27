@@ -1,6 +1,6 @@
 # Network Steganography and Network Information Hiding
 
-Version: 2.1.4
+Version: 2.1.5
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -252,6 +252,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.5, 2026-06-27
+	- Revised Ch 4, added Adullamot, AMPhitryon, and improved covert channel bandwidth slide
 
 - v. 2.1.4, 2025-Dec-15
 	- Revised Ch 4, added covert channel amplification
