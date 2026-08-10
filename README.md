@@ -1,6 +1,6 @@
-# Network Steganography and Network Information Hiding
+# Online Class on Network Covert Channels, Network Information Hiding, and Steganography
 
-Version: 2.1.5
+Version: 2.1.6
 
 ## Author
 Prof. Dr. Steffen Wendzel, [website](https://www.wendzel.de)\
@@ -252,6 +252,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.6, 2026-08-10
+	- Slight change of class title
 
 - v. 2.1.5, 2026-06-27
 	- Revised Ch 4, added Adullamot, AMPhitryon, and improved covert channel bandwidth slide
