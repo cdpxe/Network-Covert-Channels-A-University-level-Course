@@ -1,6 +1,6 @@
 # Online Class on Network Covert Channels, Network Information Hiding, and Steganography
 
-Version: 2.1.6
+Version: 2.1.7
 
 ## Author
 Prof. Dr. Steffen Wendzel, [personal website](https://www.wendzel.de),\
@@ -93,7 +93,7 @@ ___
 ### Chapter 4 - Fundamental network information hiding techniques
 This chapter introduces basic methods for realizing network covert channels and their different types (active and passive covert channels, intentional and unintentional (side) channels, and direct and indirect covert channels). Further, [covert channel amplification](https://www.wendzel.de/misc/2026/02/28/history-cc.html) is explained.
 
-- **Video:** [YouTube](https://www.youtube.com/watch?v=NQxwOo-ugh8&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=4)
+- **Video:** [YouTube: main part](https://www.youtube.com/watch?v=NQxwOo-ugh8&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s&index=4), [YouTube: covert channel amplification](https://www.youtube.com/watch?v=bJCCKlk2BdY)
 
 - **Slides:** [PDF](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course/blob/master/slides/NIH_Ch4.pdf) (PDF version newer than video!)
 
@@ -252,6 +252,9 @@ Congratulations, you made it through the whole class! **Now it is time for the f
 ___
 
 ### Changelog
+
+- v. 2.1.7, 2026-11-04
+	- Added video on covert channel amplification
 
 - v. 2.1.6, 2026-08-10
 	- Slight change of class title
